@@ -1,0 +1,2 @@
+Fri Mar  9 08:49:06 2018 [6623][-none-][FATAL] Could not connect to DB server localhost as suite_dba. port : Access denied for user 'suite_dba'@'localhost' (using password: YES)
+Fri Mar  9 08:53:59 2018 [6599][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
