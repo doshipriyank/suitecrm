@@ -32,6 +32,30 @@ $dictionary['AOS_Quotes']['fields']['temp_c']['labelValue']='Temp';
 
  
 
+ // created: 2019-03-10 16:28:20
+$dictionary['AOS_Quotes']['fields']['casing_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['casing_c']['labelValue']='Casing';
+
+ 
+
+ // created: 2019-03-10 16:54:01
+$dictionary['AOS_Quotes']['fields']['base_frame_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['base_frame_c']['labelValue']='Base Frame';
+
+ 
+
+ // created: 2019-03-10 16:29:51
+$dictionary['AOS_Quotes']['fields']['back_plate_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['back_plate_c']['labelValue']='back plate';
+
+ 
+
+ // created: 2019-03-10 20:54:07
+$dictionary['AOS_Quotes']['fields']['shaft_sleeve_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['shaft_sleeve_c']['labelValue']='Shaft Sleeve';
+
+ 
+
  // created: 2018-06-17 16:14:13
 $dictionary['AOS_Quotes']['fields']['shut_off_head_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['shut_off_head_c']['labelValue']='Shut Off Head';
@@ -44,6 +68,12 @@ $dictionary['AOS_Quotes']['fields']['min_safe_flow_c']['labelValue']='Min Safe F
 
  
 
+ // created: 2019-03-10 17:02:29
+$dictionary['AOS_Quotes']['fields']['packing_type_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['packing_type_c']['labelValue']='Packing Type';
+
+ 
+
  // created: 2018-06-17 16:10:56
 $dictionary['AOS_Quotes']['fields']['flange_rating_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['flange_rating_c']['labelValue']='Flange Rating';
@@ -53,6 +83,12 @@ $dictionary['AOS_Quotes']['fields']['flange_rating_c']['labelValue']='Flange Rat
  // created: 2018-06-17 16:10:30
 $dictionary['AOS_Quotes']['fields']['installation_depth_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['installation_depth_c']['labelValue']='Installation Depth';
+
+ 
+
+ // created: 2019-03-10 16:28:59
+$dictionary['AOS_Quotes']['fields']['impeller_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['impeller_c']['labelValue']='Impeller';
 
  
 
@@ -148,9 +184,27 @@ $dictionary['AOS_Quotes']['fields']['capacity_c']['labelValue']='Capacity';
 
  
 
+ // created: 2019-03-10 17:06:41
+$dictionary['AOS_Quotes']['fields']['seal_type_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['seal_type_c']['labelValue']='Seal Type';
+
+ 
+
+ // created: 2019-03-10 16:30:47
+$dictionary['AOS_Quotes']['fields']['shaft_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['shaft_c']['labelValue']='Shaft';
+
+ 
+
  // created: 2018-05-16 18:46:58
 $dictionary['AOS_Quotes']['fields']['liquid_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['liquid_c']['labelValue']='Liquid';
+
+ 
+
+ // created: 2019-03-10 16:52:51
+$dictionary['AOS_Quotes']['fields']['bearing_housing_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['bearing_housing_c']['labelValue']='Bearing Housing';
 
  
 

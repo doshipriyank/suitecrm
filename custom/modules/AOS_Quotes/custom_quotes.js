@@ -12,6 +12,17 @@ $(document).ready(function () {
     //  alert("HELLO WORLDS");
     // })
 
+    // Define final variables
+
+
+
+    $('.panel').each(function( i ) {
+
+        if($('.panel').find('a > div').text() ===)
+    });
+
+
+
 
     $("select#product_type_c").on('change', function () {
         console.log($('#product_type_c :selected').text());

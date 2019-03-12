@@ -1,5 +1,5 @@
 <?php
-// created: 2019-03-08 14:26:34
+// created: 2019-03-10 20:54:07
 $mod_strings = array (
   'LBL_REFERENCE_NO' => 'Ref No',
   'LBL_EDITVIEW_PANEL1' => 'Process Details',
@@ -12,7 +12,7 @@ $mod_strings = array (
   'LBL_SP_GR' => 'Sp. Gr.',
   'LBL_SUC_PRESS' => 'Suction Pressure',
   'LBL_DETAILVIEW_PANEL3' => 'Product Type',
-  'LBL_DETAILVIEW_PANEL4' => 'New Panel 4',
+  'LBL_DETAILVIEW_PANEL4' => 'TERMS & CONDITIONS',
   'LBL_SOLIDS' => 'Solids',
   'LBL_NPSH_REQD' => 'NPSH Reqd',
   'LBL_VAP_PR' => 'Vap Pr',
@@ -35,4 +35,14 @@ $mod_strings = array (
   'LBL_DISCOUNT_AMOUNT' => 'Discount',
   'LBL_PRODUCT_TYPE' => 'Product Type',
   'LBL_EDITVIEW_PANEL3' => 'Product Type',
+  'LBL_CASING' => 'Casing',
+  'LBL_IMPELLER' => 'Impeller',
+  'LBL_BACK_PLATE' => 'back plate',
+  'LBL_SHAFT' => 'Shaft',
+  'LBL_SHAFT_SLEEVE' => 'Shaft Sleeve',
+  'LBL_BEARING_HOUSING' => 'Bearing Housing',
+  'LBL_BASE_FRAME' => 'Base Frame',
+  'LBL_PACKING_TYPE' => 'Packing Type',
+  'LBL_SEAL_TYPE' => 'Seal Type',
+  'LBL_EDITVIEW_PANEL4' => 'Material of Construction',
 );

@@ -1,63 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39072272-2c4e-448a-84ec-57da926f3fbb" name="Default" comment="" />
+    <list default="true" id="39072272-2c4e-448a-84ec-57da926f3fbb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AM_ProjectTemplates/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AM_ProjectTemplates/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AM_TaskTemplates/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AM_TaskTemplates/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOBH_BusinessHours/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOBH_BusinessHours/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOD_Index/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOD_Index/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOD_IndexEvent/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOD_IndexEvent/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOK_KnowledgeBase/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOK_KnowledgeBase/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOK_Knowledge_Base_Categories/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOK_Knowledge_Base_Categories/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOP_Case_Events/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOP_Case_Events/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOP_Case_Updates/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOP_Case_Updates/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOR_Charts/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOR_Charts/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOR_Conditions/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOR_Conditions/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOR_Fields/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOR_Fields/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOR_Reports/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOR_Reports/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOR_Scheduled_Reports/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOR_Scheduled_Reports/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_Contracts/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_Contracts/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_Invoices/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_Invoices/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_Line_Item_Groups/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_Line_Item_Groups/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_PDF_Templates/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_PDF_Templates/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_Product_Categories/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_Product_Categories/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_Products/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_Products/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_Products_Quotes/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_Products_Quotes/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_Quotes/AOS_Quotesvardefs.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_Quotes/AOS_Quotesvardefs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOS_Quotes/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOS_Quotes/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOW_Actions/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOW_Actions/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOW_Conditions/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOW_Conditions/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOW_Processed/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOW_Processed/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/AOW_WorkFlow/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/AOW_WorkFlow/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Accounts/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Accounts/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Alerts/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Alerts/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Bugs/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Bugs/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Calls/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Calls/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Calls_Reschedule/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Calls_Reschedule/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Campaigns/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Campaigns/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Cases/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Cases/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Contacts/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Contacts/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Documents/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Documents/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/EAPM/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/EAPM/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/EmailTemplates/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/EmailTemplates/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Emails/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Emails/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/FP_Event_Locations/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/FP_Event_Locations/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/FP_events/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/FP_events/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Favorites/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Favorites/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/InboundEmail/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/InboundEmail/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Leads/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Leads/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Meetings/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Meetings/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Notes/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Notes/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/OAuth2Clients/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/OAuth2Clients/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/OAuth2Tokens/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/OAuth2Tokens/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/OAuthKeys/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/OAuthKeys/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Opportunities/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Opportunities/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Project/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Project/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/ProjectTask/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/ProjectTask/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/ProspectLists/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/ProspectLists/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Prospects/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Prospects/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Relationships/relationships.cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Relationships/relationships.cache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Reminders/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Reminders/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Reminders_Invitees/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Reminders_Invitees/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/SavedSearch/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/SavedSearch/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/SchedulersJobs/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/SchedulersJobs/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/SecurityGroups/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/SecurityGroups/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Spots/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Spots/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/SugarFeed/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/SugarFeed/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/SurveyQuestionOptions/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/SurveyQuestionOptions/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/SurveyQuestionResponses/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/SurveyQuestionResponses/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/SurveyQuestions/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/SurveyQuestions/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/SurveyResponses/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/SurveyResponses/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Surveys/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Surveys/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Tasks/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Tasks/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/TemplateSectionLine/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/TemplateSectionLine/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/Users/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Users/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/jjwg_Address_Cache/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/jjwg_Address_Cache/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/jjwg_Areas/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/jjwg_Areas/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/jjwg_Maps/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/jjwg_Maps/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/modules/jjwg_Markers/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/jjwg_Markers/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%06^066^066E10BE%%EditView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%06^066^066E10BE%%EditView.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%19^198^1985FE25%%SearchFormFooter.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%19^198^1985FE25%%SearchFormFooter.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%2C^2C4^2C4D4BDB%%SearchForm_advanced.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%2C^2C4^2C4D4BDB%%SearchForm_advanced.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%37^379^379D83A5%%SearchForm_sps.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%37^379^379D83A5%%SearchForm_sps.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%39^39A^39AFE42F%%DetailView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%39^39A^39AFE42F%%DetailView.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%3C^3C5^3C5C6E4C%%form_SubpanelQuickCreate_Contacts.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%3C^3C5^3C5C6E4C%%form_SubpanelQuickCreate_Contacts.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%44^442^4422CBA7%%Popup.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%44^442^4422CBA7%%Popup.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B8^B8D^B8D06F8A%%EditView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%B8^B8D^B8D06F8A%%EditView.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B9^B96^B96768CC%%header.tpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%CA^CA3^CA378882%%EditView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%CA^CA3^CA378882%%EditView.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%CF^CF1^CF186B1B%%DetailView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%CF^CF1^CF186B1B%%DetailView.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E0^E03^E036CAF4%%SearchFormHeader.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%E0^E03^E036CAF4%%SearchFormHeader.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E7^E78^E783787C%%SearchForm_popup_query_form.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%E7^E78^E783787C%%SearchForm_popup_query_form.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/themes/SuiteP/modules/AOS_Quotes/EditView.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/cache/themes/SuiteP/modules/AOS_Quotes/EditView.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/themes/SuiteP/pathCache.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/themes/SuiteP/pathCache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom/modules/AOS_Quotes/Ext/Vardefs/vardefs.ext.php" beforeDir="false" afterPath="$PROJECT_DIR$/custom/modules/AOS_Quotes/Ext/Vardefs/vardefs.ext.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom/modules/AOS_Quotes/custom_quotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/custom/modules/AOS_Quotes/custom_quotes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom/modules/AOS_Quotes/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/custom/modules/AOS_Quotes/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/MVC/View/SugarView.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/MVC/View/SugarView.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memory_usage.log" beforeDir="false" afterPath="$PROJECT_DIR$/memory_usage.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/AOD_Index/Index/Index/_3v5_1u.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/AOD_Index/Index/Index/_5qo_7.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/AOD_Index/Index/Index/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/modules/AOD_Index/Index/Index/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/AOD_Index/Index/Index/segments_6co" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suitecrm.log" beforeDir="false" afterPath="$PROJECT_DIR$/suitecrm.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/custom_quotes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README_SANDO.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="377">
-                <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/detailviewdefs.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="99" column="14" selection-start-line="96" selection-start-column="6" selection-end-line="102" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/editviewdefs.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom/include/language/en_us.lang.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,6 +136,9 @@
       <find>sando</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -100,8 +159,9 @@
         <option value="$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/editviewdefs.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/custom/themes/SuiteP/css/Dawn/style.css" />
-        <option value="$PROJECT_DIR$/custom/modules/AOS_Quotes/custom_quotes.js" />
         <option value="$PROJECT_DIR$/README_SANDO.md" />
+        <option value="$PROJECT_DIR$/modules/AOS_Quotes/vardefs.php" />
+        <option value="$PROJECT_DIR$/custom/modules/AOS_Quotes/custom_quotes.js" />
       </list>
     </option>
   </component>
@@ -143,15 +203,15 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="1273" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,35 +228,7 @@
               <item name="suitecrm" type="b2602c69:ProjectViewProjectNode" />
               <item name="suitecrm" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suitecrm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suitecrm" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="AOS_Quotes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suitecrm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suitecrm" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="AOS_Quotes" type="462c0819:PsiDirectoryNode" />
-              <item name="metadata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suitecrm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suitecrm" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suitecrm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suitecrm" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="Suite7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="suitecrm" type="b2602c69:ProjectViewProjectNode" />
@@ -211,31 +243,13 @@
               <item name="custom" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="SuiteP" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suitecrm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suitecrm" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="SuiteP" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="Dawn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suitecrm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suitecrm" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="SuiteP" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="Dawn" type="462c0819:PsiDirectoryNode" />
-              <item name="style.scss" type="620a8d5e:NestingTreeNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,16 +326,19 @@
       <workItem from="1551502496294" duration="1765000" />
       <workItem from="1551771835978" duration="10541000" />
       <workItem from="1552051716041" duration="37000" />
+      <workItem from="1552192758500" duration="14000" />
+      <workItem from="1552193133719" duration="6092000" />
+      <workItem from="1552404010702" duration="979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41658000" />
+    <option name="totallyTimeSpent" value="48743000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1273" height="777" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22578125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980362" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -331,9 +348,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -347,15 +364,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/custom/themes/SuiteP/tpls/Home.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1550731264998" expanded="true" signature="3352:3453" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/themes/SuiteP/tpls/_headerModuleList.tpl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/custom/themes/SuiteP/tpls/_head.tpl">
@@ -372,14 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/views/view.edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/Users/User.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/Configurator/tpls/adminwizard.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -387,16 +387,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/Users/controller.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/Users/views/view.edit.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#6#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -419,23 +413,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/Users/views/view.detail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2495">
-          <folding>
-            <element signature="e#0#6#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-2495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/Menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-78" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/AOS_Quotes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/AOS_Quotes_sugar.php">
@@ -455,17 +438,7 @@
         <state relative-caret-position="-515" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/Ext/Vardefs/vardefs.ext.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/SearchFields.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1847" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/listviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/SearchFields.php" />
     <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/metadata/subpaneldefs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-476" />
@@ -505,19 +478,10 @@
         <state relative-caret-position="-1543" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/metadata/metafiles.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/metadata/popupdefs.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/metadata/searchdefs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-93" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/metadata/sidecreateviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/metadata/SearchFields.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -538,21 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/Calls_Reschedule/language/en_us.lang.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/language/en_us.lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-634" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/converToInvoice.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1218" />
@@ -563,21 +512,12 @@
         <state relative-caret-position="-1053" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/createOpportunity.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/custom/themes/SuiteP/css/Dawn/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12748" column="96" selection-start-line="12748" selection-start-column="48" selection-end-line="12748" selection-end-column="96" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/include/tabConfig.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -596,39 +536,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/custom_quotes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/README_SANDO.md" />
+    <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/Ext/Vardefs/vardefs.ext.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/detailviewdefs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" column="14" selection-start-line="96" selection-start-column="6" selection-end-line="102" selection-end-column="8" />
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/language/en_us.lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1938">
+          <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/AOS_Quotes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/views/view.edit.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/custom_quotes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/editviewdefs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="-3257">
           <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/include/language/en_us.lang.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README_SANDO.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="377">
-            <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/custom/modules/AOS_Quotes/metadata/editviewdefs.php.suback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5145">
+          <caret line="343" column="24" selection-start-line="343" selection-start-column="24" selection-end-line="343" selection-end-column="24" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/AOS_Quotes/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4147" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/AOS_Products_Quotes/Line_Items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-548">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#78#84#1" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#124#130#0" expanded="true" />
+            <element signature="e#130#136#0" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#130#136#0" expanded="true" />
+            <element signature="e#136#142#0" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#130#136#0" expanded="true" />
+            <element signature="e#136#142#0" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#125#131#0" expanded="true" />
+            <element signature="e#131#137#0" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#126#132#0" expanded="true" />
+            <element signature="e#132#138#0" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#89#95#1" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#89#95#1" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/themes/SuiteP/images/sando_crm_xsmall.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/themes/SuiteP/images/sugar_icon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/themes/SuiteP/images/sando.ico">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
