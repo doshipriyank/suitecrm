@@ -8,6 +8,12 @@ $dictionary['AOS_Quotes']['fields']['viscosity_c']['labelValue']='Viscosity';
 
  
 
+ // created: 2019-03-15 14:32:30
+$dictionary['AOS_Quotes']['fields']['non_wetted_parts_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['non_wetted_parts_c']['labelValue']='Non Wetted Parts';
+
+ 
+
  // created: 2018-06-06 11:45:54
 $dictionary['AOS_Quotes']['fields']['disc_pressure_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['disc_pressure_c']['labelValue']='Disc Pressure';
@@ -17,6 +23,18 @@ $dictionary['AOS_Quotes']['fields']['disc_pressure_c']['labelValue']='Disc Press
  // created: 2018-06-17 19:22:06
 $dictionary['AOS_Quotes']['fields']['bkw_liquid_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['bkw_liquid_c']['labelValue']='BKW (liquid)';
+
+ 
+
+ // created: 2019-03-15 14:43:21
+$dictionary['AOS_Quotes']['fields']['valve_ball_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['valve_ball_c']['labelValue']='Valve Ball';
+
+ 
+
+ // created: 2019-03-14 17:20:15
+$dictionary['AOS_Quotes']['fields']['suction_delivery_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['suction_delivery_c']['labelValue']='Suction X Delivery';
 
  
 
@@ -32,6 +50,18 @@ $dictionary['AOS_Quotes']['fields']['temp_c']['labelValue']='Temp';
 
  
 
+ // created: 2019-03-15 16:29:16
+$dictionary['AOS_Quotes']['fields']['particle_size_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['particle_size_c']['labelValue']='Particle Size';
+
+ 
+
+ // created: 2019-03-15 14:45:19
+$dictionary['AOS_Quotes']['fields']['valve_seat_o_ring_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['valve_seat_o_ring_c']['labelValue']='valve seat o ring';
+
+ 
+
  // created: 2019-03-10 16:28:20
 $dictionary['AOS_Quotes']['fields']['casing_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['casing_c']['labelValue']='Casing';
@@ -41,6 +71,12 @@ $dictionary['AOS_Quotes']['fields']['casing_c']['labelValue']='Casing';
  // created: 2019-03-10 16:54:01
 $dictionary['AOS_Quotes']['fields']['base_frame_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['base_frame_c']['labelValue']='Base Frame';
+
+ 
+
+ // created: 2019-03-15 22:27:27
+$dictionary['AOS_Quotes']['fields']['shipping_terms_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['shipping_terms_c']['labelValue']='Shipping Terms';
 
  
 
@@ -71,6 +107,12 @@ $dictionary['AOS_Quotes']['fields']['min_safe_flow_c']['labelValue']='Min Safe F
  // created: 2019-03-10 17:02:29
 $dictionary['AOS_Quotes']['fields']['packing_type_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['packing_type_c']['labelValue']='Packing Type';
+
+ 
+
+ // created: 2019-03-14 17:24:32
+$dictionary['AOS_Quotes']['fields']['air_inlet_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['air_inlet_c']['labelValue']='Air Inlet';
 
  
 
@@ -110,15 +152,45 @@ $dictionary['AOS_Quotes']['fields']['impeller_dia_c']['labelValue']='Impeller Di
 
  
 
+ // created: 2019-03-14 15:31:16
+$dictionary['AOS_Quotes']['fields']['max_air_inlet_pressure_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['max_air_inlet_pressure_c']['labelValue']='Max Air Inlet Pressure';
+
+ 
+
+ // created: 2019-03-15 14:45:55
+$dictionary['AOS_Quotes']['fields']['valve_type_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['valve_type_c']['labelValue']='Valve Type';
+
+ 
+
  // created: 2018-06-17 16:15:33
 $dictionary['AOS_Quotes']['fields']['impeller_type_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['impeller_type_c']['labelValue']='Impeller Type';
 
  
 
+ // created: 2019-03-15 16:28:26
+$dictionary['AOS_Quotes']['fields']['pump_model_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['pump_model_c']['labelValue']='Pump Model';
+
+ 
+
  // created: 2018-06-17 19:22:45
 $dictionary['AOS_Quotes']['fields']['max_pow_rated_impeller_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['max_pow_rated_impeller_c']['labelValue']='Max pow rated impeller';
+
+ 
+
+ // created: 2019-03-15 14:33:12
+$dictionary['AOS_Quotes']['fields']['diaphragm_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['diaphragm_c']['labelValue']='Diaphragm';
+
+ 
+
+ // created: 2019-03-14 21:23:16
+$dictionary['AOS_Quotes']['fields']['wetted_parts_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['wetted_parts_c']['labelValue']='Wetted Parts';
 
  
 
@@ -190,6 +262,12 @@ $dictionary['AOS_Quotes']['fields']['seal_type_c']['labelValue']='Seal Type';
 
  
 
+ // created: 2019-03-14 17:25:16
+$dictionary['AOS_Quotes']['fields']['air_exhaust_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['air_exhaust_c']['labelValue']='Air Exhaust';
+
+ 
+
  // created: 2019-03-10 16:30:47
 $dictionary['AOS_Quotes']['fields']['shaft_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['shaft_c']['labelValue']='Shaft';
@@ -217,6 +295,12 @@ $dictionary['AOS_Quotes']['fields']['diff_head_c']['labelValue']='Diff Head';
  // created: 2018-05-16 19:23:28
 $dictionary['AOS_Quotes']['fields']['suc_press_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['suc_press_c']['labelValue']='Suction Pressure';
+
+ 
+
+ // created: 2019-03-14 17:23:45
+$dictionary['AOS_Quotes']['fields']['max_air_consumption_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['max_air_consumption_c']['labelValue']='Max Air Consumption';
 
  
 ?>

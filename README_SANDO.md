@@ -16,12 +16,24 @@ changing existing module like Quotes, PdfTemplate. Personalising Login_Page
    *  Added Sando CRM logo in css file _custom/modules/themes/SuiteP/css/dawn/syles.scss_  which is displayed on login page header. 
    *  Added SANDO CRM header image in _custom/themes/SuiteP/images/sando_crm_xsmall.png_
    *  Added Custom Javascript file _custom/modules/AOS_Quotes/custom_quotes.js for AOS_Quotes module
-
+   *  Changed favicon to sando.ico in SuiteCRM\include\MVC\View\SugarView.php
+   
   
   **INSTRUCTIONS**
-   * To successfully add custom javascript in SuiteCRM , Below are steps requires:
+   * **How to successfully add custom javascript in SuiteCRM ,** Below are steps requires:
       * For AOS_Quotes -> Define  "'includes' => array ( 0 => array ('file' => 'custom/modules/AOS_Quotes/custom_quotes.js',),),"
         in editviewsdef.php & detailviewdef.php
+        
+   * **How to delete custom field in suitecrm**
+       1) Remove custom field entry in table "fields_meta_data"
+       
+       2) Remove field from module_name_cstm table
+       
+       3) Remove file from custom/extension/modules/<Yourmodule>/Ext/Vardefs/sugarfield_<Field name>.php
+       
+       4) Remove field from all the view if you have added any.
+
+
 
 
 <title>CREATE » Quotes » SandoCRM</title>

@@ -114,6 +114,11 @@ array (
           'newTab' => false,
           'panelDefault' => 'expanded',
         ),
+        'LBL_ADDRESS_INFORMATION' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
         'LBL_EDITVIEW_PANEL1' => 
         array (
           'newTab' => false,
@@ -124,7 +129,17 @@ array (
           'newTab' => false,
           'panelDefault' => 'expanded',
         ),
-        'LBL_ADDRESS_INFORMATION' => 
+        'LBL_EDITVIEW_PANEL4' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+        'LBL_EDITVIEW_PANEL7' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+        'LBL_EDITVIEW_PANEL5' => 
         array (
           'newTab' => false,
           'panelDefault' => 'expanded',
@@ -228,6 +243,58 @@ array (
           ),
         ),
       ),
+      'lbl_address_information' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'billing_account',
+            'label' => 'LBL_BILLING_ACCOUNT',
+          ),
+          1 => 
+          array (
+            'name' => 'billing_contact',
+            'label' => 'LBL_BILLING_CONTACT',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'billing_address_street',
+            'label' => 'LBL_BILLING_ADDRESS',
+            'type' => 'address',
+            'displayParams' => 
+            array (
+              'key' => 'billing',
+            ),
+          ),
+          1 => 
+          array (
+            'name' => 'shipping_address_street',
+            'label' => 'LBL_SHIPPING_ADDRESS',
+            'type' => 'address',
+            'displayParams' => 
+            array (
+              'key' => 'shipping',
+            ),
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'suction_delivery_c',
+            'label' => 'LBL_SUCTION_DELIVERY',
+          ),
+          1 => 
+          array (
+            'name' => 'pump_model_c',
+            'label' => 'LBL_PUMP_MODEL',
+          ),
+        ),
+      ),
       'lbl_editview_panel1' => 
       array (
         0 => 
@@ -289,14 +356,20 @@ array (
             'name' => 'viscosity_c',
             'label' => 'LBL_VISCOSITY',
           ),
+          1 => 
+          array (
+            'name' => 'vap_pr_c',
+            'label' => 'LBL_VAP_PR',
+          ),
         ),
         5 => 
         array (
           0 => 
           array (
-            'name' => 'vap_pr_c',
-            'label' => 'LBL_VAP_PR',
+            'name' => 'disc_pressure_c',
+            'label' => 'LBL_DISC_PRESSURE',
           ),
+          1 => '',
         ),
       ),
       'lbl_editview_panel2' => 
@@ -310,8 +383,8 @@ array (
           ),
           1 => 
           array (
-            'name' => 'shut_off_head_c',
-            'label' => 'LBL_SHUT_OFF_HEAD',
+            'name' => 'impeller_type_c',
+            'label' => 'LBL_IMPELLER_TYPE',
           ),
         ),
         1 => 
@@ -323,8 +396,8 @@ array (
           ),
           1 => 
           array (
-            'name' => 'min_safe_flow_c',
-            'label' => 'LBL_MIN_SAFE_FLOW',
+            'name' => 'impeller_dia_c',
+            'label' => 'LBL_IMPELLER_DIA',
           ),
         ),
         2 => 
@@ -336,8 +409,8 @@ array (
           ),
           1 => 
           array (
-            'name' => 'bkw_water_c',
-            'label' => 'LBL_BKW_WATER',
+            'name' => 'shut_off_head_c',
+            'label' => 'LBL_SHUT_OFF_HEAD',
           ),
         ),
         3 => 
@@ -349,8 +422,8 @@ array (
           ),
           1 => 
           array (
-            'name' => 'bkw_liquid_c',
-            'label' => 'LBL_BKW_LIQUID',
+            'name' => 'min_safe_flow_c',
+            'label' => 'LBL_MIN_SAFE_FLOW',
           ),
         ),
         4 => 
@@ -362,65 +435,151 @@ array (
           ),
           1 => 
           array (
-            'name' => 'max_pow_rated_impeller_c',
-            'label' => 'LBL_MAX_POW_RATED_IMPELLER',
-          ),
-        ),
-        5 => 
-        array (
-          0 => 
-          array (
-            'name' => 'impeller_type_c',
-            'label' => 'LBL_IMPELLER_TYPE',
-          ),
-          1 => 
-          array (
             'name' => 'motor_recomm_c',
             'label' => 'LBL_MOTOR_RECOMM',
           ),
         ),
       ),
-      'lbl_address_information' => 
+      'lbl_editview_panel4' => 
       array (
         0 => 
         array (
           0 => 
           array (
-            'name' => 'billing_account',
-            'label' => 'LBL_BILLING_ACCOUNT',
+            'name' => 'casing_c',
+            'label' => 'LBL_CASING',
           ),
-          1 => '',
+          1 => 
+          array (
+            'name' => 'bearing_housing_c',
+            'label' => 'LBL_BEARING_HOUSING',
+          ),
         ),
         1 => 
         array (
           0 => 
           array (
-            'name' => 'billing_contact',
-            'label' => 'LBL_BILLING_CONTACT',
+            'name' => 'impeller_c',
+            'label' => 'LBL_IMPELLER',
           ),
-          1 => '',
+          1 => 
+          array (
+            'name' => 'base_frame_c',
+            'label' => 'LBL_BASE_FRAME',
+          ),
         ),
         2 => 
         array (
           0 => 
           array (
-            'name' => 'billing_address_street',
-            'label' => 'LBL_BILLING_ADDRESS',
-            'type' => 'address',
-            'displayParams' => 
-            array (
-              'key' => 'billing',
-            ),
+            'name' => 'back_plate_c',
+            'label' => 'LBL_BACK_PLATE',
           ),
           1 => 
           array (
-            'name' => 'shipping_address_street',
-            'label' => 'LBL_SHIPPING_ADDRESS',
-            'type' => 'address',
-            'displayParams' => 
-            array (
-              'key' => 'shipping',
-            ),
+            'name' => 'packing_type_c',
+            'label' => 'LBL_PACKING_TYPE',
+          ),
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'shaft_c',
+            'label' => 'LBL_SHAFT',
+          ),
+          1 => 
+          array (
+            'name' => 'shaft_sleeve_c',
+            'label' => 'LBL_SHAFT_SLEEVE',
+          ),
+        ),
+        4 => 
+        array (
+          0 => 
+          array (
+            'name' => 'seal_type_c',
+            'label' => 'LBL_SEAL_TYPE',
+          ),
+        ),
+      ),
+      'lbl_editview_panel7' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'max_air_inlet_pressure_c',
+            'label' => 'LBL_MAX_AIR_INLET_PRESSURE',
+          ),
+          1 => 
+          array (
+            'name' => 'max_air_consumption_c',
+            'label' => 'LBL_MAX_AIR_CONSUMPTION',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'air_inlet_c',
+            'label' => 'LBL_AIR_INLET',
+          ),
+          1 => 
+          array (
+            'name' => 'air_exhaust_c',
+            'label' => 'LBL_AIR_EXHAUST',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'particle_size_c',
+            'label' => 'LBL_PARTICLE_SIZE',
+          ),
+          1 => '',
+        ),
+      ),
+      'lbl_editview_panel5' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'wetted_parts_c',
+            'label' => 'LBL_WETTED_PARTS',
+          ),
+          1 => 
+          array (
+            'name' => 'valve_ball_c',
+            'label' => 'LBL_VALVE_BALL',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'non_wetted_parts_c',
+            'label' => 'LBL_NON_WETTED_PARTS',
+          ),
+          1 => 
+          array (
+            'name' => 'valve_seat_o_ring_c',
+            'label' => 'LBL_VALVE_SEAT_O_RING',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'diaphragm_c',
+            'label' => 'LBL_DIAPHRAGM',
+          ),
+          1 => 
+          array (
+            'name' => 'valve_type_c',
+            'label' => 'LBL_VALVE_TYPE',
           ),
         ),
       ),
@@ -434,6 +593,7 @@ array (
             'studio' => 'visible',
             'label' => 'LBL_CURRENCY',
           ),
+          1 => '',
         ),
         1 => 
         array (
@@ -445,17 +605,13 @@ array (
         ),
         2 => 
         array (
-          0 => '',
-        ),
-        3 => 
-        array (
           0 => 
           array (
             'name' => 'total_amt',
             'label' => 'LBL_TOTAL_AMT',
           ),
         ),
-        4 => 
+        3 => 
         array (
           0 => 
           array (
@@ -463,7 +619,7 @@ array (
             'label' => 'LBL_DISCOUNT_AMOUNT',
           ),
         ),
-        5 => 
+        4 => 
         array (
           0 => 
           array (
@@ -471,23 +627,7 @@ array (
             'label' => 'LBL_SUBTOTAL_AMOUNT',
           ),
         ),
-        6 => 
-        array (
-          0 => 
-          array (
-            'name' => 'shipping_amount',
-            'label' => 'LBL_SHIPPING_AMOUNT',
-          ),
-        ),
-        7 => 
-        array (
-          0 => 
-          array (
-            'name' => 'shipping_tax_amt',
-            'label' => 'LBL_SHIPPING_TAX_AMT',
-          ),
-        ),
-        8 => 
+        5 => 
         array (
           0 => 
           array (
@@ -495,7 +635,7 @@ array (
             'label' => 'LBL_TAX_AMOUNT',
           ),
         ),
-        9 => 
+        6 => 
         array (
           0 => 
           array (
