@@ -59,6 +59,11 @@ array (
           'newTab' => false,
           'panelDefault' => 'expanded',
         ),
+        'LBL_EDITVIEW_PANEL8' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
         'LBL_EDITVIEW_PANEL2' => 
         array (
           'newTab' => false,
@@ -79,7 +84,22 @@ array (
           'newTab' => false,
           'panelDefault' => 'expanded',
         ),
+        'LBL_EDITVIEW_PANEL9' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+        'LBL_EDITVIEW_PANEL10' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
         'LBL_LINE_ITEMS' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+        'LBL_EDITVIEW_PANEL11' => 
         array (
           'newTab' => false,
           'panelDefault' => 'expanded',
@@ -249,19 +269,6 @@ array (
             'label' => 'LBL_SHIPPING_ADDRESS_STREET',
           ),
         ),
-        2 => 
-        array (
-          0 => 
-          array (
-            'name' => 'suction_delivery_c',
-            'label' => 'LBL_SUCTION_DELIVERY',
-          ),
-          1 => 
-          array (
-            'name' => 'pump_model_c',
-            'label' => 'LBL_PUMP_MODEL',
-          ),
-        ),
       ),
       'lbl_editview_panel1' => 
       array (
@@ -340,6 +347,48 @@ array (
           1 => '',
         ),
       ),
+      'lbl_editview_panel8' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'pump_model_c',
+            'label' => 'LBL_PUMP_MODEL',
+          ),
+          1 => 
+          array (
+            'name' => 'suction_delivery_c',
+            'label' => 'LBL_SUCTION_DELIVERY',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'pump_type_c',
+            'label' => 'LBL_PUMP_TYPE',
+          ),
+          1 => 
+          array (
+            'name' => 'pump_performance_c',
+            'label' => 'LBL_PUMP_PERFORMANCE',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'vcf_pump_length_c',
+            'label' => 'LBL_VCF_PUMP_LENGTH',
+          ),
+          1 => 
+          array (
+            'name' => 'vcf_total_length_c',
+            'label' => 'LBL_VCF_TOTAL_LENGTH',
+          ),
+        ),
+      ),
       'lbl_editview_panel2' => 
       array (
         0 => 
@@ -407,6 +456,14 @@ array (
             'label' => 'LBL_MOTOR_RECOMM',
           ),
         ),
+        5 => 
+        array (
+          0 => 
+          array (
+            'name' => 'strainer_c',
+            'label' => 'LBL_STRAINER',
+          ),
+        ),
       ),
       'lbl_editview_panel4' => 
       array (
@@ -432,8 +489,8 @@ array (
           ),
           1 => 
           array (
-            'name' => 'base_frame_c',
-            'label' => 'LBL_BASE_FRAME',
+            'name' => 'packing_type_c',
+            'label' => 'LBL_PACKING_TYPE',
           ),
         ),
         2 => 
@@ -445,8 +502,8 @@ array (
           ),
           1 => 
           array (
-            'name' => 'packing_type_c',
-            'label' => 'LBL_PACKING_TYPE',
+            'name' => 'shaft_sleeve_c',
+            'label' => 'LBL_SHAFT_SLEEVE',
           ),
         ),
         3 => 
@@ -458,8 +515,8 @@ array (
           ),
           1 => 
           array (
-            'name' => 'shaft_sleeve_c',
-            'label' => 'LBL_SHAFT_SLEEVE',
+            'name' => 'base_frame_c',
+            'label' => 'LBL_BASE_FRAME',
           ),
         ),
         4 => 
@@ -468,6 +525,37 @@ array (
           array (
             'name' => 'seal_type_c',
             'label' => 'LBL_SEAL_TYPE',
+          ),
+          1 => 
+          array (
+            'name' => 'stuffing_box_c',
+            'label' => 'LBL_STUFFING_BOX',
+          ),
+        ),
+        5 => 
+        array (
+          0 => 
+          array (
+            'name' => 'delivery_pipe_c',
+            'label' => 'LBL_DELIVERY_PIPE',
+          ),
+          1 => 
+          array (
+            'name' => 'column_pipe_c',
+            'label' => 'LBL_COLUMN_PIPE',
+          ),
+        ),
+        6 => 
+        array (
+          0 => 
+          array (
+            'name' => 'motor_stool_c',
+            'label' => 'LBL_MOTOR_STOOL',
+          ),
+          1 => 
+          array (
+            'name' => 'mounting_plate_c',
+            'label' => 'LBL_MOUNTING_PLATE',
           ),
         ),
       ),
@@ -551,6 +639,94 @@ array (
           ),
         ),
       ),
+      'lbl_editview_panel9' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'testing_pressure_c',
+            'label' => 'LBL_TESTING_PRESSURE',
+          ),
+          1 => 
+          array (
+            'name' => 'hydro_pressure_c',
+            'label' => 'LBL_HYDRO_PRESSURE',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'spm_c',
+            'label' => 'LBL_SPM',
+          ),
+          1 => 
+          array (
+            'name' => 'gear_ratio_c',
+            'label' => 'LBL_GEAR_RATIO',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'plunger_dia_c',
+            'label' => 'LBL_PLUNGER_DIA',
+          ),
+          1 => '',
+        ),
+      ),
+      'lbl_editview_panel10' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'liquid_end_c',
+            'label' => 'LBL_LIQUID_END',
+          ),
+          1 => 
+          array (
+            'name' => 'dosing_metering_diaphragm_c',
+            'label' => 'LBL_DOSING_METERING_DIAPHRAGM',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'dm_nrv_c',
+            'label' => 'LBL_DM_NRV',
+          ),
+          1 => 
+          array (
+            'name' => 'worm_wheel_c',
+            'label' => 'LBL_WORM_WHEEL',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'gear_housing_c',
+            'label' => 'LBL_GEAR_HOUSING',
+          ),
+          1 => 
+          array (
+            'name' => 'coupling_guard_c',
+            'label' => 'LBL_COUPLING_GUARD',
+          ),
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'pump_drive_mounting_base_c',
+            'label' => 'LBL_PUMP_DRIVE_MOUNTING_BASE',
+          ),
+        ),
+      ),
       'lbl_line_items' => 
       array (
         0 => 
@@ -609,6 +785,73 @@ array (
           array (
             'name' => 'total_amount',
             'label' => 'LBL_GRAND_TOTAL',
+          ),
+        ),
+      ),
+      'lbl_editview_panel11' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'select_terms_c',
+            'studio' => 'visible',
+            'label' => 'LBL_SELECT_TERMS',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'incoterms_c',
+            'label' => 'LBL_INCOTERMS',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'delivery_c',
+            'label' => 'LBL_DELIVERY',
+          ),
+          1 => 
+          array (
+            'name' => 'shipment_c',
+            'label' => 'LBL_SHIPMENT',
+          ),
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'freight_ins_c',
+            'label' => 'LBL_FREIGHT_INS',
+          ),
+          1 => 
+          array (
+            'name' => 'payment_c',
+            'label' => 'LBL_PAYMENT',
+          ),
+        ),
+        4 => 
+        array (
+          0 => 
+          array (
+            'name' => 'gst_c',
+            'label' => 'LBL_GST',
+          ),
+          1 => 
+          array (
+            'name' => 'pnf_charges_c',
+            'label' => 'LBL_PNF_CHARGES',
+          ),
+        ),
+        5 => 
+        array (
+          0 => 
+          array (
+            'name' => 'validity_c',
+            'label' => 'LBL_VALIDITY',
           ),
         ),
       ),

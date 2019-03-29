@@ -24,11 +24,20 @@ $GLOBALS['app_list_strings']['quote_term_dom']=array (
   'Adv_100' => 'Adv 100',
   '' => '',
 );
-
+//OVERWRITE EDIT TAB NAME
+$app_strings['LBL_SUITE_DASHBOARD'] = 'SANDO DASHBOARD';
 $GLOBALS['app_list_strings']['quote_type_dom']=array (
   'spt' => 'Select Product Type',
   'hcf' => 'Horizontal Centrifugal Pump',
   'vcf' => 'Vertical Centrifugal Pump',
   'aodd' => 'AODD',
-  'valves' => 'Valves',
+  'dosing_metering_pump' => 'Dosing Plunger Pump',
+  'dosing_hydraulic_pump' => 'Dosing Hydraulic Diaphragm Pump',
+  'mag_drive_pump' => 'Magnetic Drive Pump',
+);
+
+$GLOBALS['app_list_strings']['quote_terms_type_dom']=array (
+  'select_terms' => 'Select Terms',
+  'domestic' => 'Domestic',
+  'intl' => 'International',
 );

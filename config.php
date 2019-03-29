@@ -1,5 +1,5 @@
 <?php
-// created: 2019-02-04 12:29:15
+// created: 2019-03-26 17:20:48
 $sugar_config = array (
   'addAjaxBannedModules' => 
   array (
@@ -254,7 +254,7 @@ $sugar_config = array (
   'email_default_delete_attachments' => true,
   'email_default_editor' => 'html',
   'email_enable_auto_send_opt_in' => true,
-  'email_enable_confirm_opt_in' => 'not-opt-in',
+  'email_enable_confirm_opt_in' => 'confirmed-opt-in',
   'enable_action_menu' => true,
   'enable_line_editing_detail' => true,
   'enable_line_editing_list' => true,
@@ -312,7 +312,7 @@ $sugar_config = array (
     'timeout' => 86400,
   ),
   'js_custom_version' => 1,
-  'js_lang_version' => 5,
+  'js_lang_version' => 7,
   'languages' => 
   array (
     'en_us' => 'English (US)',
@@ -329,7 +329,7 @@ $sugar_config = array (
   'log_memory_usage' => true,
   'logger' => 
   array (
-    'level' => 'fatal',
+    'level' => 'error',
     'file' => 
     array (
       'ext' => '.log',
@@ -450,4 +450,12 @@ $sugar_config = array (
   'use_real_names' => true,
   'vcal_time' => '2',
   'verify_client_ip' => true,
+  'email_allow_send_as_user' => false,
+  'email_xss' => 'YToxNDp7czo2OiJhcHBsZXQiO3M6NjoiYXBwbGV0IjtzOjQ6ImJhc2UiO3M6NDoiYmFzZSI7czo1OiJlbWJlZCI7czo1OiJlbWJlZCI7czo0OiJmb3JtIjtzOjQ6ImZvcm0iO3M6NToiZnJhbWUiO3M6NToiZnJhbWUiO3M6ODoiZnJhbWVzZXQiO3M6ODoiZnJhbWVzZXQiO3M6NjoiaWZyYW1lIjtzOjY6ImlmcmFtZSI7czo2OiJpbXBvcnQiO3M6ODoiXD9pbXBvcnQiO3M6NToibGF5ZXIiO3M6NToibGF5ZXIiO3M6NDoibGluayI7czo0OiJsaW5rIjtzOjY6Im9iamVjdCI7czo2OiJvYmplY3QiO3M6NToic3R5bGUiO3M6NToic3R5bGUiO3M6MzoieG1wIjtzOjM6InhtcCI7czo2OiJzY3JpcHQiO3M6Njoic2NyaXB0Ijt9',
+  'hide_history_contacts_emails' => 
+  array (
+    'Cases' => true,
+    'Accounts' => true,
+    'Opportunities' => true,
+  ),
 );

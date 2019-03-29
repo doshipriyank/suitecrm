@@ -11,14 +11,15 @@ changing existing module like Quotes, PdfTemplate. Personalising Login_Page
  
  **CHANGELOG** 
 
- **Changed Login Page to Sando CRM 02/03/2019 - @author PJD**  
+   *  Changed Login Page to Sando CRM 02/03/2019 - @author PJD 
    *  Added all tpl files to _custom/modules/themes/SuiteP_ to fix the BUG "sidebar toggle not closing"
    *  Added Sando CRM logo in css file _custom/modules/themes/SuiteP/css/dawn/syles.scss_  which is displayed on login page header. 
    *  Added SANDO CRM header image in _custom/themes/SuiteP/images/sando_crm_xsmall.png_
-   *  Added Custom Javascript file _custom/modules/AOS_Quotes/custom_quotes.js for AOS_Quotes module
-   *  Changed favicon to sando.ico in SuiteCRM\include\MVC\View\SugarView.php
+   *  Added Custom Javascript file _custom/modules/AOS_Quotes/custom_quotes.js for AOS_Quotes module 
+   *  Changed favicon to sando.ico in SuiteCRM\include\MVC\View\SugarView.php - 16/03/19 / @author PJD
+   *  Added Bootstrap library in _head.tpl file in _custom/themes/SuiteP/tpls/_head.tpl - 17/03/19 / @author PJD
+   *  Added drop downlist quote_type_dom , quote_terms_type_dom in Studio -> Dropdown Editor
    
-  
   **INSTRUCTIONS**
    * **How to successfully add custom javascript in SuiteCRM ,** Below are steps requires:
       * For AOS_Quotes -> Define  "'includes' => array ( 0 => array ('file' => 'custom/modules/AOS_Quotes/custom_quotes.js',),),"

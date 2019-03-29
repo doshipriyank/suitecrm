@@ -8,9 +8,21 @@ $dictionary['AOS_Quotes']['fields']['viscosity_c']['labelValue']='Viscosity';
 
  
 
+ // created: 2019-03-27 16:18:33
+$dictionary['AOS_Quotes']['fields']['incoterms_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['incoterms_c']['labelValue']='Incoterms';
+
+ 
+
  // created: 2019-03-15 14:32:30
 $dictionary['AOS_Quotes']['fields']['non_wetted_parts_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['non_wetted_parts_c']['labelValue']='Non Wetted Parts';
+
+ 
+
+ // created: 2019-03-26 15:54:36
+$dictionary['AOS_Quotes']['fields']['payment_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['payment_c']['labelValue']='Payment';
 
  
 
@@ -26,9 +38,39 @@ $dictionary['AOS_Quotes']['fields']['bkw_liquid_c']['labelValue']='BKW (liquid)'
 
  
 
+ // created: 2019-03-17 23:04:53
+$dictionary['AOS_Quotes']['fields']['pump_type_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['pump_type_c']['labelValue']='Pump Type';
+
+ 
+
+ // created: 2019-03-17 23:49:51
+$dictionary['AOS_Quotes']['fields']['worm_wheel_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['worm_wheel_c']['labelValue']='WORM WHEEL';
+
+ 
+
+ // created: 2019-03-17 23:40:09
+$dictionary['AOS_Quotes']['fields']['spm_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['spm_c']['labelValue']='SPM';
+
+ 
+
+ // created: 2019-03-26 11:20:40
+$dictionary['AOS_Quotes']['fields']['column_pipe_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['column_pipe_c']['labelValue']='Column Pipe';
+
+ 
+
  // created: 2019-03-15 14:43:21
 $dictionary['AOS_Quotes']['fields']['valve_ball_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['valve_ball_c']['labelValue']='Valve Ball';
+
+ 
+
+ // created: 2019-03-26 11:22:46
+$dictionary['AOS_Quotes']['fields']['mounting_plate_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['mounting_plate_c']['labelValue']='Mounting Plate';
 
  
 
@@ -38,9 +80,39 @@ $dictionary['AOS_Quotes']['fields']['suction_delivery_c']['labelValue']='Suction
 
  
 
+ // created: 2019-03-26 11:10:25
+$dictionary['AOS_Quotes']['fields']['vcf_pump_length_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['vcf_pump_length_c']['labelValue']='Pump Length';
+
+ 
+
+ // created: 2019-03-26 15:54:04
+$dictionary['AOS_Quotes']['fields']['shipment_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['shipment_c']['labelValue']='Shipment';
+
+ 
+
  // created: 2018-06-04 12:59:21
 $dictionary['AOS_Quotes']['fields']['vap_pr_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['vap_pr_c']['labelValue']='Vap Pr';
+
+ 
+
+ // created: 2019-03-26 15:56:03
+$dictionary['AOS_Quotes']['fields']['pnf_charges_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['pnf_charges_c']['labelValue']='P&F Charges';
+
+ 
+
+ // created: 2019-03-17 23:47:05
+$dictionary['AOS_Quotes']['fields']['dosing_metering_diaphragm_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['dosing_metering_diaphragm_c']['labelValue']='DM diaphragm';
+
+ 
+
+ // created: 2019-03-17 23:52:55
+$dictionary['AOS_Quotes']['fields']['pump_drive_mounting_base_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['pump_drive_mounting_base_c']['labelValue']='Pump Drive Mounting Base';
 
  
 
@@ -56,6 +128,12 @@ $dictionary['AOS_Quotes']['fields']['particle_size_c']['labelValue']='Particle S
 
  
 
+ // created: 2019-03-17 23:41:59
+$dictionary['AOS_Quotes']['fields']['gear_ratio_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['gear_ratio_c']['labelValue']='Gear Ratio';
+
+ 
+
  // created: 2019-03-15 14:45:19
 $dictionary['AOS_Quotes']['fields']['valve_seat_o_ring_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['valve_seat_o_ring_c']['labelValue']='valve seat o ring';
@@ -65,6 +143,12 @@ $dictionary['AOS_Quotes']['fields']['valve_seat_o_ring_c']['labelValue']='valve 
  // created: 2019-03-10 16:28:20
 $dictionary['AOS_Quotes']['fields']['casing_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['casing_c']['labelValue']='Casing';
+
+ 
+
+ // created: 2019-03-26 11:23:25
+$dictionary['AOS_Quotes']['fields']['motor_stool_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['motor_stool_c']['labelValue']='motor stool';
 
  
 
@@ -92,6 +176,12 @@ $dictionary['AOS_Quotes']['fields']['shaft_sleeve_c']['labelValue']='Shaft Sleev
 
  
 
+ // created: 2019-03-26 11:41:20
+$dictionary['AOS_Quotes']['fields']['stuffing_box_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['stuffing_box_c']['labelValue']='Stuffing Box';
+
+ 
+
  // created: 2018-06-17 16:14:13
 $dictionary['AOS_Quotes']['fields']['shut_off_head_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['shut_off_head_c']['labelValue']='Shut Off Head';
@@ -101,6 +191,18 @@ $dictionary['AOS_Quotes']['fields']['shut_off_head_c']['labelValue']='Shut Off H
  // created: 2018-06-17 16:14:53
 $dictionary['AOS_Quotes']['fields']['min_safe_flow_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['min_safe_flow_c']['labelValue']='Min Safe Flow';
+
+ 
+
+ // created: 2019-03-17 23:48:01
+$dictionary['AOS_Quotes']['fields']['dm_nrv_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['dm_nrv_c']['labelValue']='DM NRV';
+
+ 
+
+ // created: 2019-03-26 15:55:27
+$dictionary['AOS_Quotes']['fields']['delivery_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['delivery_c']['labelValue']='Delivery';
 
  
 
@@ -119,6 +221,12 @@ $dictionary['AOS_Quotes']['fields']['air_inlet_c']['labelValue']='Air Inlet';
  // created: 2018-06-17 16:10:56
 $dictionary['AOS_Quotes']['fields']['flange_rating_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['flange_rating_c']['labelValue']='Flange Rating';
+
+ 
+
+ // created: 2019-03-26 15:57:58
+$dictionary['AOS_Quotes']['fields']['validity_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['validity_c']['labelValue']='Validity';
 
  
 
@@ -164,6 +272,12 @@ $dictionary['AOS_Quotes']['fields']['valve_type_c']['labelValue']='Valve Type';
 
  
 
+ // created: 2019-03-26 11:24:20
+$dictionary['AOS_Quotes']['fields']['strainer_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['strainer_c']['labelValue']='Strainer';
+
+ 
+
  // created: 2018-06-17 16:15:33
 $dictionary['AOS_Quotes']['fields']['impeller_type_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['impeller_type_c']['labelValue']='Impeller Type';
@@ -188,9 +302,27 @@ $dictionary['AOS_Quotes']['fields']['diaphragm_c']['labelValue']='Diaphragm';
 
  
 
+ // created: 2019-03-26 15:56:46
+$dictionary['AOS_Quotes']['fields']['gst_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['gst_c']['labelValue']='GST';
+
+ 
+
+ // created: 2019-03-17 23:43:31
+$dictionary['AOS_Quotes']['fields']['liquid_end_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['liquid_end_c']['labelValue']='Liquid End';
+
+ 
+
  // created: 2019-03-14 21:23:16
 $dictionary['AOS_Quotes']['fields']['wetted_parts_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['wetted_parts_c']['labelValue']='Wetted Parts';
+
+ 
+
+ // created: 2019-03-26 15:57:27
+$dictionary['AOS_Quotes']['fields']['freight_ins_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['freight_ins_c']['labelValue']='Freight & Ins';
 
  
 
@@ -218,6 +350,18 @@ $dictionary['AOS_Quotes']['fields']['solids_c']['labelValue']='Solids';
 
  
 
+ // created: 2019-03-17 23:40:56
+$dictionary['AOS_Quotes']['fields']['hydro_pressure_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['hydro_pressure_c']['labelValue']='Hydro Pressure';
+
+ 
+
+ // created: 2019-03-26 22:24:56
+$dictionary['AOS_Quotes']['fields']['select_terms_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['select_terms_c']['labelValue']='Select Terms';
+
+ 
+
  // created: 2018-05-16 19:21:38
 $dictionary['AOS_Quotes']['fields']['sp_gr_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['sp_gr_c']['labelValue']='Sp. Gr.';
@@ -238,9 +382,21 @@ $dictionary['AOS_Quotes']['fields']['discount_amount']['options']='numeric_range
 
  
 
+ // created: 2019-03-17 23:42:33
+$dictionary['AOS_Quotes']['fields']['plunger_dia_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['plunger_dia_c']['labelValue']='Plunger Dia';
+
+ 
+
  // created: 2018-06-17 19:23:59
 $dictionary['AOS_Quotes']['fields']['motor_recomm_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['motor_recomm_c']['labelValue']='Motor (Recomm)';
+
+ 
+
+ // created: 2019-03-26 11:11:17
+$dictionary['AOS_Quotes']['fields']['vcf_total_length_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['vcf_total_length_c']['labelValue']='Total Length';
 
  
 
@@ -259,6 +415,12 @@ $dictionary['AOS_Quotes']['fields']['capacity_c']['labelValue']='Capacity';
  // created: 2019-03-10 17:06:41
 $dictionary['AOS_Quotes']['fields']['seal_type_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['seal_type_c']['labelValue']='Seal Type';
+
+ 
+
+ // created: 2019-03-17 23:09:27
+$dictionary['AOS_Quotes']['fields']['pump_performance_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['pump_performance_c']['labelValue']='Pump Performance';
 
  
 
@@ -286,6 +448,18 @@ $dictionary['AOS_Quotes']['fields']['bearing_housing_c']['labelValue']='Bearing 
 
  
 
+ // created: 2019-03-17 23:52:12
+$dictionary['AOS_Quotes']['fields']['coupling_guard_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['coupling_guard_c']['labelValue']='Coupling Guard';
+
+ 
+
+ // created: 2019-03-17 23:41:28
+$dictionary['AOS_Quotes']['fields']['testing_pressure_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['testing_pressure_c']['labelValue']='Testing Pressure';
+
+ 
+
  // created: 2018-05-16 19:20:47
 $dictionary['AOS_Quotes']['fields']['diff_head_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['diff_head_c']['labelValue']='Diff Head';
@@ -295,6 +469,18 @@ $dictionary['AOS_Quotes']['fields']['diff_head_c']['labelValue']='Diff Head';
  // created: 2018-05-16 19:23:28
 $dictionary['AOS_Quotes']['fields']['suc_press_c']['inline_edit']='1';
 $dictionary['AOS_Quotes']['fields']['suc_press_c']['labelValue']='Suction Pressure';
+
+ 
+
+ // created: 2019-03-17 23:50:29
+$dictionary['AOS_Quotes']['fields']['gear_housing_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['gear_housing_c']['labelValue']='Gear Housing';
+
+ 
+
+ // created: 2019-03-26 11:21:25
+$dictionary['AOS_Quotes']['fields']['delivery_pipe_c']['inline_edit']='1';
+$dictionary['AOS_Quotes']['fields']['delivery_pipe_c']['labelValue']='Delivery Pipe';
 
  
 
