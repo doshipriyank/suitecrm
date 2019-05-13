@@ -1,6 +1,6 @@
 <?php
-// created: 2019-02-04 12:24:20
-$listViewDefs['AOS_Quotes'] = array (
+$listViewDefs ['AOS_Quotes'] = 
+array (
   'NUMBER' => 
   array (
     'width' => '5%',
@@ -19,19 +19,6 @@ $listViewDefs['AOS_Quotes'] = array (
     'width' => '10%',
     'label' => 'LBL_STAGE',
     'default' => true,
-  ),
-  'BILLING_CONTACT' => 
-  array (
-    'width' => '11%',
-    'label' => 'LBL_BILLING_CONTACT',
-    'default' => true,
-    'module' => 'Contacts',
-    'id' => 'BILLING_CONTACT_ID',
-    'link' => true,
-    'related_fields' => 
-    array (
-      0 => 'billing_contact_id',
-    ),
   ),
   'BILLING_ACCOUNT' => 
   array (
@@ -53,12 +40,6 @@ $listViewDefs['AOS_Quotes'] = array (
     'default' => true,
     'currency_format' => true,
   ),
-  'EXPIRATION' => 
-  array (
-    'width' => '10%',
-    'label' => 'LBL_EXPIRATION',
-    'default' => true,
-  ),
   'ASSIGNED_USER_NAME' => 
   array (
     'width' => '10%',
@@ -68,11 +49,11 @@ $listViewDefs['AOS_Quotes'] = array (
     'id' => 'ASSIGNED_USER_ID',
     'link' => true,
   ),
-  'DATE_ENTERED' => 
+  'EXPIRATION' => 
   array (
-    'width' => '5%',
-    'label' => 'LBL_DATE_ENTERED',
-    'default' => 1,
+    'width' => '10%',
+    'label' => 'LBL_EXPIRATION',
+    'default' => true,
   ),
   'AOS_QUOTES_TYPE' => 
   array (
@@ -158,16 +139,20 @@ $listViewDefs['AOS_Quotes'] = array (
     'label' => 'LBL_OWNERSHIP',
     'default' => false,
   ),
-  'EMPLOYEES' => 
+  'LIQUID_C' => 
   array (
-    'width' => '10%',
-    'label' => 'LBL_EMPLOYEES',
+    'type' => 'varchar',
     'default' => false,
+    'label' => 'LBL_LIQUID',
+    'width' => '10%',
   ),
-  'TICKER_SYMBOL' => 
+  'PUMP_MODEL_C' => 
   array (
-    'width' => '10%',
-    'label' => 'LBL_TICKER_SYMBOL',
+    'type' => 'varchar',
     'default' => false,
+    'label' => 'LBL_PUMP_MODEL',
+    'width' => '10%',
   ),
 );
+;
+?>

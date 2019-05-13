@@ -1,5 +1,5 @@
 <?php
-// created: 2019-03-26 16:35:25
+// created: 2019-05-09 14:50:42
 $mod_strings = array (
   'LBL_REFERENCE_NO' => 'Ref No',
   'LBL_EDITVIEW_PANEL1' => 'Process Details',
@@ -98,4 +98,31 @@ $mod_strings = array (
   'LBL_FREIGHT_INS' => 'Freight & Ins',
   'LBL_VALIDITY' => 'Validity',
   'LBL_SELECT_TERMS' => 'Select Terms',
+  'LBL_DETAILVIEW_PANEL12' => 'Product Type',
+  'LBL_EDITVIEW_PANEL12' => 'MOTOR',
+  'LBL_MOTOR_MAKE' => 'Make',
+  'LBL_KW_RPM' => 'KW / RPM',
+  'LBL_INSULATION' => 'Insulation',
+  'LBL_MOTOR_PROTECTION' => 'Protection',
+  'LBL_MOTOR_VOLTAGE' => 'Voltage',
+  'LBL_MOTOR_HERTS' => 'Herts',
+  'LBL_MOTOR_STANDARD' => 'motor standard',
+  'LBL_TOTAL_AMT' => 'Total',
+  'LBL_MOTOR_TYPE' => 'Motor Type',
+  'LBL_MOTOR_MOUNT_TYPE' => 'Motor Mount Type',
+  'LBL_MOTOR_ENERGY_EFF' => 'Energy Efficiency',
+  'LBL_MOTOR_TEMP' => 'Motor Temp',
+  'LBL_MOTOR_PHASE' => 'Phase',
+  'LBL_THRUST_BEARING' => 'Thrust Bearing',
+  'LBL_BUSH_BEARING' => 'Bush Bearing',
+  'LBL_ISOLATION_SHELL' => 'Isolation Shell',
+  'LBL_GASKET' => 'Gasket',
+  'LBL_FASTNER' => 'Fastner',
+  'LBL_EDITVIEW_PANEL13' => 'Material Of Construction - MDP',
+  'LBL_MDP_CASING' => 'Casing',
+  'LBL_MDP_IMPELLER' => 'Impeller',
+  'LBL_MDP_SHAFT' => 'Shaft',
+  'LBL_MDP_PUMP_BODY' => 'Pump Body',
+  'LBL_MDP_BASE_FRAME' => 'Base Frame',
+  'LBL_EDITVIEW_PANEL14' => 'New Panel 14',
 );

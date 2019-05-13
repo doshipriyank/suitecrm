@@ -19,6 +19,7 @@ changing existing module like Quotes, PdfTemplate. Personalising Login_Page
    *  Changed favicon to sando.ico in SuiteCRM\include\MVC\View\SugarView.php - 16/03/19 / @author PJD
    *  Added Bootstrap library in _head.tpl file in _custom/themes/SuiteP/tpls/_head.tpl - 17/03/19 / @author PJD
    *  Added drop downlist quote_type_dom , quote_terms_type_dom in Studio -> Dropdown Editor
+   *  Added custom.js quote in listview.php. Please check instruction <i> https://phpbugs.wordpress.com/2011/06/17/sugarcrm-include-javascript-file-on-listview/ </i>
    
   **INSTRUCTIONS**
    * **How to successfully add custom javascript in SuiteCRM ,** Below are steps requires:
@@ -34,7 +35,23 @@ changing existing module like Quotes, PdfTemplate. Personalising Login_Page
        
        4) Remove field from all the view if you have added any.
 
+   * **How to add custom javascript in List View**
+    
+   `<?php
+   if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
+   require_once('include/MVC/View/views/view.list.php');
+   class {ModuleName}ViewList extends ViewList
+   {
+       function __construct()
+       {
+           parent::__construct();
+       }
+       function preDisplay()
+       {
+           echo '<script type="text/javascript" src="{INCLUDE_FILE_PATH}"></script>';
+           parent::preDisplay();
+       }
+   }
+   ?>
+`
 
-
-
-<title>CREATE » Quotes » SandoCRM</title>

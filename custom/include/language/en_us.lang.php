@@ -41,3 +41,7 @@ $GLOBALS['app_list_strings']['quote_terms_type_dom']=array (
   'domestic' => 'Domestic',
   'intl' => 'International',
 );
+$GLOBALS['app_list_strings']['motor_quote_unquote_list']=array (
+  'NotQuoted_Recommended' => 'NOT QUOTED / RECOMMENDED',
+  'Quoted' => 'QUOTED',
+);

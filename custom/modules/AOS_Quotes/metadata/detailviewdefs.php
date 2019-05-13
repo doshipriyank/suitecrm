@@ -101,12 +101,12 @@ array (
           'file' => 'custom/modules/AOS_Quotes/custom_quotes.js',
         ),
       ),
-      'useTabs' => false,
+      'useTabs' => true,
       'tabDefs' => 
       array (
         'LBL_EDITVIEW_PANEL3' => 
         array (
-          'newTab' => false,
+          'newTab' => true,
           'panelDefault' => 'expanded',
         ),
         'LBL_ACCOUNT_INFORMATION' => 
@@ -139,6 +139,11 @@ array (
           'newTab' => false,
           'panelDefault' => 'expanded',
         ),
+        'LBL_EDITVIEW_PANEL13' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
         'LBL_EDITVIEW_PANEL7' => 
         array (
           'newTab' => false,
@@ -160,6 +165,11 @@ array (
           'panelDefault' => 'expanded',
         ),
         'LBL_LINE_ITEMS' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+        'LBL_EDITVIEW_PANEL12' => 
         array (
           'newTab' => false,
           'panelDefault' => 'expanded',
@@ -227,19 +237,6 @@ array (
         array (
           0 => 
           array (
-            'name' => 'expiration',
-            'label' => 'LBL_EXPIRATION',
-          ),
-          1 => 
-          array (
-            'name' => 'invoice_status',
-            'label' => 'LBL_INVOICE_STATUS',
-          ),
-        ),
-        4 => 
-        array (
-          0 => 
-          array (
             'name' => 'assigned_user_name',
             'label' => 'LBL_ASSIGNED_TO',
           ),
@@ -249,7 +246,7 @@ array (
             'label' => 'LBL_TERM',
           ),
         ),
-        5 => 
+        4 => 
         array (
           0 => 
           array (
@@ -260,6 +257,19 @@ array (
           array (
             'name' => 'approval_issue',
             'label' => 'LBL_APPROVAL_ISSUE',
+          ),
+        ),
+        5 => 
+        array (
+          0 => 
+          array (
+            'name' => 'expiration',
+            'label' => 'LBL_EXPIRATION',
+          ),
+          1 => 
+          array (
+            'name' => 'invoice_status',
+            'label' => 'LBL_INVOICE_STATUS',
           ),
         ),
       ),
@@ -591,6 +601,61 @@ array (
           ),
         ),
       ),
+      'lbl_editview_panel13' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'mdp_casing_c',
+            'label' => 'LBL_MDP_CASING',
+          ),
+          1 => 
+          array (
+            'name' => 'isolation_shell_c',
+            'label' => 'LBL_ISOLATION_SHELL',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'mdp_impeller_c',
+            'label' => 'LBL_MDP_IMPELLER',
+          ),
+          1 => 
+          array (
+            'name' => 'fastner_c',
+            'label' => 'LBL_FASTNER',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'mdp_shaft_c',
+            'label' => 'LBL_MDP_SHAFT',
+          ),
+          1 => 
+          array (
+            'name' => 'thrust_bearing_c',
+            'label' => 'LBL_THRUST_BEARING',
+          ),
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'mdp_pump_body_c',
+            'label' => 'LBL_MDP_PUMP_BODY',
+          ),
+          1 => 
+          array (
+            'name' => 'mdp_base_frame_c',
+            'label' => 'LBL_MDP_BASE_FRAME',
+          ),
+        ),
+      ),
       'lbl_editview_panel7' => 
       array (
         0 => 
@@ -817,6 +882,61 @@ array (
           array (
             'name' => 'total_amount',
             'label' => 'LBL_GRAND_TOTAL',
+          ),
+        ),
+      ),
+      'lbl_editview_panel12' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'motor_make_c',
+            'label' => 'LBL_MOTOR_MAKE',
+          ),
+          1 => 
+          array (
+            'name' => 'motor_temp_c',
+            'label' => 'LBL_MOTOR_TEMP',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'motor_mount_type_c',
+            'label' => 'LBL_MOTOR_MOUNT_TYPE',
+          ),
+          1 => 
+          array (
+            'name' => 'motor_phase_c',
+            'label' => 'LBL_MOTOR_PHASE',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'motor_protection_c',
+            'label' => 'LBL_MOTOR_PROTECTION',
+          ),
+          1 => 
+          array (
+            'name' => 'motor_voltage_c',
+            'label' => 'LBL_MOTOR_VOLTAGE',
+          ),
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'motor_standard_c',
+            'label' => 'LBL_MOTOR_STANDARD',
+          ),
+          1 => 
+          array (
+            'name' => 'motor_type_c',
+            'label' => 'LBL_MOTOR_TYPE',
           ),
         ),
       ),
