@@ -54,4 +54,24 @@ changing existing module like Quotes, PdfTemplate. Personalising Login_Page
    }
    ?>
 `
+* **PERFORMANCE TWEAKING
+ 
+   * OPCACHE CONFIGURATION CHANGE
+       Follow Steps from : https://www.tecmint.com/install-opcache-in-centos-7/	       Follow Steps from WIKI : https://wiki.mikejung.biz/PHP_OPcache   	
+       1. opcache.max_accelerated_files = 7963
+       2. opcache.validate_timestamps = 0
+       3. opcache.enable_cli=1
+       4. opcache.memory_consumption=128
+       5. opcache.interned_strings_buffer=8
+       6. opcache.revalidate_freq=60
+       7. opcache.fast_shutdown=1
 
+  
+   * MYSQL CONFIG CHANGE
+       1. Run Perl Diagnostic script :  Perl mysqltuner.pl
+       2. Added skip-name-resolve=1 in my.cnf file 
+
+  * Link to ENABLE GZIP COMPRESSION 
+	1. Follow Steps in the link https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-mod_deflate-on-centos-7
+        2. Added gzip configuration in /etc/httpd/conf.d/mod_deflate.conf 
+  
