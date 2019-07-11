@@ -4733,7 +4733,7 @@ eoq;
             ) {
                 $ret = $this->sendOptInEmail($emailAddress);
                 if (!$ret) {
-                    LoggerManager::getLogger()->error('Error sending opt-in email to: ' . $emailAddress);
+                    LoggerManager::getLogger()->error('Error sending opt-in email to: ' . $emailAddress->email_address);
                 }
             }
         }
