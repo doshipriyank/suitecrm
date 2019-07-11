@@ -98,11 +98,6 @@ $(document).ready(function () {
     //CONSTANTS MODULE TITLE
     const MODULE_TITLE_QUOTES = "Quotes";
     const MODULE_TITLE_CREATE = "CREATE";
-
-    const ACTIONMENUSIDEBAR_CREATEQUOTE = "Create Quote";
-    const ACTIONMENUSIDEBAR_VIEWQUOTE = "View Quotes";
-
-
     // END OF CONSTANTS
 
     //LOCAL variables
