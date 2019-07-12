@@ -2,31 +2,31 @@ cache/**
 modules/AOD_Index/*
 *.log
 .idea/
-config.php
+#config.php
 ## First part from https://github.com/github/gitignore/blob/master/SugarCRM.gitignore
 # Ignore custom .htaccess stuff.
-/.htaccess
+#/.htaccess
 # Ignore large parts of the annoying cache directory without breaking things.
 cache/*
 upload/*
 !upload/index.html
 # Ignore some files and directories from the custom directory.
-custom/
-custom/history/*
-custom/blowfish/*
-custom/modulebuilder/*
-custom/working/*
-custom/modules/*/Ext/
-custom/modules/unified_search_modules_display.php
+#custom/
+#custom/history/*
+#custom/blowfish/*
+#custom/modulebuilder/*
+#custom/working/*
+#custom/modules/*/Ext/
+#custom/modules/unified_search_modules_display.php
 # Ignore AOD indexes
 modules/AOD_Index/Index/*
 install/status.json
 # Configuration files should be ignored.
-/config.php
-/config_override.php
-/config_si.php
+#/config.php
+#/config_override.php
+#/config_si.php
 # Connector configuration should also be ignored.
-custom/modules/Connectors/connectors/sources/ext/*/*/config.php
+#custom/modules/Connectors/connectors/sources/ext/*/*/config.php
 # Logs files can safely be ignored.
 *.log
 ## IDE specific items
