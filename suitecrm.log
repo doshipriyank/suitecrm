@@ -1,0 +1,479 @@
+Wed Jul  3 17:08:14 2019 [11693][1][ERROR] Pop error level. Try to remove the error_reporting() function from your code.
+Wed Jul  3 16:21:00 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:21:00 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:21:14 2019 [11905][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:21:14 2019 [11905][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:21:37 2019 [11905][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:21:37 2019 [11905][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:21:57 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:21:57 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:21:57 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:22:27 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:22:27 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:22:32 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:22:32 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:22:32 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:22:35 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:22:35 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:22:47 2019 [11971][1][ERROR] error: no ieID
+Wed Jul  3 16:22:48 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:22:48 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:22:55 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:22:55 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:23:04 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:23:04 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:23:08 2019 [11971][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From-name is not set.
+From address and name pair does not match to from name.
+From address and name pair is invalid.
+codes:1, 7, 22, 15
+Wed Jul  3 16:23:08 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:23:08 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:23:09 2019 [11971][1][ERROR] EmailController::action_getFromFields() is Panicking: Reply-To address is not filled.
+Wed Jul  3 16:23:09 2019 [11971][1][ERROR] Signature html not found!
+Wed Jul  3 16:23:09 2019 [11971][1][ERROR] Signature plain text not found!
+Wed Jul  3 16:23:09 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:23:38 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:23:38 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:23:38 2019 [11971][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From address is not set.
+From-name is not set.
+From name is not set.
+From address and name pair format is incorrect, use "from@emailaddress.org <Name of Person>" format.
+From address and name pair is invalid.
+codes:1, 4, 7, 10, 16, 15
+Wed Jul  3 16:23:38 2019 [11971][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:23:40 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:23:40 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:23:48 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:23:48 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:24:10 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:24:10 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:24:17 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:24:17 2019 [11971][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:24:55 2019 [11905][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:24:55 2019 [11905][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Wed Jul  3 16:24:58 2019 [11905][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From-name is not set.
+From address and name pair does not match to from name.
+From address and name pair is invalid.
+codes:1, 7, 22, 15
+Wed Jul  3 16:24:58 2019 [11905][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:24:58 2019 [11905][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From-name is not set.
+From address and name pair does not match to from name.
+From address and name pair is invalid.
+codes:1, 7, 22, 15
+Wed Jul  3 16:24:58 2019 [11905][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:24:59 2019 [11905][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:24:59 2019 [11905][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 16:24:59 2019 [11905][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From address is not set.
+From-name is not set.
+From name is not set.
+From address and name pair format is incorrect, use "from@emailaddress.org <Name of Person>" format.
+From address and name pair is invalid.
+codes:1, 4, 7, 10, 16, 15
+Wed Jul  3 16:24:59 2019 [11905][1][ERROR] Unable to find relationship emails_email_templates
+Wed Jul  3 17:03:27 2019 [11971][1][FATAL] IP Address mismatch: SESSION IP: 49.48.248.40 CLIENT IP: 49.48.246.114
+Wed Jul  3 17:03:27 2019 [11971][1][FATAL] IP Address mismatch: SESSION IP: 49.48.248.40 CLIENT IP: 49.48.246.114
+Wed Jul  3 17:38:54 2019 [11971][1][FATAL] IP Address mismatch: SESSION IP: 49.48.248.40 CLIENT IP: 49.48.250.225
+Thu Jul  4 04:34:12 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.17553997039795
+ SELECT  contacts.* ,contacts_cstm.jjwg_maps_address_c,contacts_cstm.jjwg_maps_lng_c,contacts_cstm.jjwg_maps_lat_c,contacts_cstm.jjwg_maps_geocode_status_c, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as name , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as full_name, '                                                                                                                                                                                                                                                              ' account_name , '                                    '  account_id , '                                                                                                                                                                                                                                                              ' opportunity_role_fields , '                                    '  opportunity_id  , jt5.last_name report_to_name , jt5.assigned_user_id report_to_name_owner  , 'Contacts' report_to_name_mod , jt6.name campaign_name , jt6.assigned_user_id campaign_name_owner  , 'Campaigns' campaign_name_mod, '                                                                                                                                                                                                                                                              ' c_accept_status_fields , '                                    '  call_id , '                                                                                                                                                                                                                                                              ' m_accept_status_fields , '                                    '  meeting_id , '                                                                                                                                                                                                                                                              ' e_invite_status_fields , '                                    '  fp_events_contactsfp_events_ida , '                                                                                                                                                                                                                                                              ' e_accept_status_fields  FROM contacts  LEFT JOIN contacts_cstm ON contacts.id = contacts_cstm.id_c   LEFT JOIN  users jt0 ON contacts.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON contacts.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON contacts.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0  LEFT JOIN  contacts jt5 ON contacts.reports_to_id=jt5.id AND jt5.deleted=0
+
+ AND jt5.deleted=0  LEFT JOIN  campaigns jt6 ON contacts.campaign_id=jt6.id AND jt6.deleted=0
+
+ AND jt6.deleted=0 where ((LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 'm%' OR LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 'm%')) AND contacts.deleted=0 ORDER BY contacts.last_name LIMIT 0,30)
+Thu Jul  4 04:34:16 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.25305008888245
+ SELECT  contacts.* ,contacts_cstm.jjwg_maps_address_c,contacts_cstm.jjwg_maps_lng_c,contacts_cstm.jjwg_maps_lat_c,contacts_cstm.jjwg_maps_geocode_status_c, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as name , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as full_name, '                                                                                                                                                                                                                                                              ' account_name , '                                    '  account_id , '                                                                                                                                                                                                                                                              ' opportunity_role_fields , '                                    '  opportunity_id  , jt5.last_name report_to_name , jt5.assigned_user_id report_to_name_owner  , 'Contacts' report_to_name_mod , jt6.name campaign_name , jt6.assigned_user_id campaign_name_owner  , 'Campaigns' campaign_name_mod, '                                                                                                                                                                                                                                                              ' c_accept_status_fields , '                                    '  call_id , '                                                                                                                                                                                                                                                              ' m_accept_status_fields , '                                    '  meeting_id , '                                                                                                                                                                                                                                                              ' e_invite_status_fields , '                                    '  fp_events_contactsfp_events_ida , '                                                                                                                                                                                                                                                              ' e_accept_status_fields  FROM contacts  LEFT JOIN contacts_cstm ON contacts.id = contacts_cstm.id_c   LEFT JOIN  users jt0 ON contacts.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON contacts.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON contacts.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0  LEFT JOIN  contacts jt5 ON contacts.reports_to_id=jt5.id AND jt5.deleted=0
+
+ AND jt5.deleted=0  LEFT JOIN  campaigns jt6 ON contacts.campaign_id=jt6.id AND jt6.deleted=0
+
+ AND jt6.deleted=0 where ((LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 'M%' OR LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 'M%')) AND contacts.deleted=0 ORDER BY contacts.last_name LIMIT 0,30)
+Thu Jul  4 04:34:17 2019 [11905][-none-][FATAL] Slow Query (time:0.18812108039856
+SELECT category, name, value FROM config)
+Thu Jul  4 04:34:17 2019 [11905][-none-][FATAL] Slow Query (time:0.18115305900574
+SELECT id FROM outbound_email WHERE type = 'system')
+Thu Jul  4 04:34:17 2019 [11905][-none-][FATAL] Slow Query (time:0.18291902542114
+SELECT * FROM outbound_email WHERE id = 'c0661e0b-98f2-41d2-7098-5aa23dfe47bd')
+Thu Jul  4 04:34:17 2019 [11905][-none-][FATAL] Slow Query (time:0.19864416122437
+SELECT users.* FROM users  WHERE users.id = '6f1319bd-bce1-d828-fdc5-5d10ad345763' AND users.deleted=0 LIMIT 0,1)
+Thu Jul  4 04:34:18 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.18330812454224
+SELECT id, first_name, last_name, user_name FROM users WHERE 1=1 ORDER BY first_name, last_name ASC)
+Thu Jul  4 04:34:18 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.14190793037415
+SELECT u1.first_name, u1.last_name from users  u1, users  u2 where u1.id = u2.reports_to_id AND u2.id = '6f1319bd-bce1-d828-fdc5-5d10ad345763' and u1.deleted=0)
+Thu Jul  4 04:34:18 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.19156289100647
+SELECT 
+                    ea.email_address,
+                    ea.email_address_caps,
+                    ea.invalid_email,
+                    ea.opt_out,
+                    ea.confirm_opt_in,
+                    ea.date_created,
+                    ea.date_modified,
+                    ear.id,
+                    ear.email_address_id,
+                    ear.bean_id,
+                    ear.bean_module,
+                    ear.primary_address,
+                    ear.reply_to_address,
+                    ear.deleted
+                FROM email_addresses ea LEFT JOIN email_addr_bean_rel ear ON ea.id = ear.email_address_id
+                WHERE 
+                    ear.bean_module = 'Users'
+                    AND ear.bean_id = '6f1319bd-bce1-d828-fdc5-5d10ad345763'
+                    AND ear.deleted = 0
+                ORDER BY ear.reply_to_address, ear.primary_address DESC)
+Thu Jul  4 04:34:18 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.27993512153625
+ SELECT  contacts.* ,contacts_cstm.jjwg_maps_address_c,contacts_cstm.jjwg_maps_lng_c,contacts_cstm.jjwg_maps_lat_c,contacts_cstm.jjwg_maps_geocode_status_c, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as name , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as full_name, '                                                                                                                                                                                                                                                              ' account_name , '                                    '  account_id , '                                                                                                                                                                                                                                                              ' opportunity_role_fields , '                                    '  opportunity_id  , jt5.last_name report_to_name , jt5.assigned_user_id report_to_name_owner  , 'Contacts' report_to_name_mod , jt6.name campaign_name , jt6.assigned_user_id campaign_name_owner  , 'Campaigns' campaign_name_mod, '                                                                                                                                                                                                                                                              ' c_accept_status_fields , '                                    '  call_id , '                                                                                                                                                                                                                                                              ' m_accept_status_fields , '                                    '  meeting_id , '                                                                                                                                                                                                                                                              ' e_invite_status_fields , '                                    '  fp_events_contactsfp_events_ida , '                                                                                                                                                                                                                                                              ' e_accept_status_fields  FROM contacts  LEFT JOIN contacts_cstm ON contacts.id = contacts_cstm.id_c   LEFT JOIN  users jt0 ON contacts.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON contacts.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON contacts.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0  LEFT JOIN  contacts jt5 ON contacts.reports_to_id=jt5.id AND jt5.deleted=0
+
+ AND jt5.deleted=0  LEFT JOIN  campaigns jt6 ON contacts.campaign_id=jt6.id AND jt6.deleted=0
+
+ AND jt6.deleted=0 where ((LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 'Ma%' OR LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 'Ma%')) AND contacts.deleted=0 ORDER BY contacts.last_name LIMIT 0,30)
+Thu Jul  4 04:34:19 2019 [11905][-none-][FATAL] Slow Query (time:0.1214759349823
+SELECT category, name, value FROM config)
+Thu Jul  4 04:34:20 2019 [11905][-none-][FATAL] Slow Query (time:0.54900503158569
+SELECT id FROM outbound_email WHERE type = 'system')
+Thu Jul  4 04:34:20 2019 [11905][-none-][FATAL] Slow Query (time:0.53199601173401
+SELECT * FROM outbound_email WHERE id = 'c0661e0b-98f2-41d2-7098-5aa23dfe47bd')
+Thu Jul  4 04:34:21 2019 [11905][-none-][FATAL] Slow Query (time:0.1306848526001
+SELECT users.* FROM users  WHERE users.id = '6f1319bd-bce1-d828-fdc5-5d10ad345763' AND users.deleted=0 LIMIT 0,1)
+Thu Jul  4 04:34:21 2019 [11905][-none-][FATAL] Slow Query (time:0.19972896575928
+SELECT category, name, value FROM config)
+Thu Jul  4 04:34:21 2019 [11905][-none-][FATAL] Slow Query (time:0.19976282119751
+SELECT category, name, value FROM config)
+Thu Jul  4 04:34:21 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.21765398979187
+SELECT id, first_name, last_name, user_name FROM users WHERE 1=1 ORDER BY first_name, last_name ASC)
+Thu Jul  4 04:34:21 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.19670605659485
+SELECT u1.first_name, u1.last_name from users  u1, users  u2 where u1.id = u2.reports_to_id AND u2.id = '6f1319bd-bce1-d828-fdc5-5d10ad345763' and u1.deleted=0)
+Thu Jul  4 04:34:21 2019 [11905][-none-][FATAL] Slow Query (time:0.19681000709534
+SELECT id FROM outbound_email WHERE type = 'system')
+Thu Jul  4 04:34:21 2019 [11905][-none-][FATAL] Slow Query (time:0.19641494750977
+SELECT id FROM outbound_email WHERE type = 'system')
+Thu Jul  4 04:34:21 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.16115713119507
+SELECT 
+                    ea.email_address,
+                    ea.email_address_caps,
+                    ea.invalid_email,
+                    ea.opt_out,
+                    ea.confirm_opt_in,
+                    ea.date_created,
+                    ea.date_modified,
+                    ear.id,
+                    ear.email_address_id,
+                    ear.bean_id,
+                    ear.bean_module,
+                    ear.primary_address,
+                    ear.reply_to_address,
+                    ear.deleted
+                FROM email_addresses ea LEFT JOIN email_addr_bean_rel ear ON ea.id = ear.email_address_id
+                WHERE 
+                    ear.bean_module = 'Users'
+                    AND ear.bean_id = '6f1319bd-bce1-d828-fdc5-5d10ad345763'
+                    AND ear.deleted = 0
+                ORDER BY ear.reply_to_address, ear.primary_address DESC)
+Thu Jul  4 04:34:21 2019 [11905][-none-][FATAL] Slow Query (time:0.15456199645996
+SELECT * FROM outbound_email WHERE id = 'c0661e0b-98f2-41d2-7098-5aa23dfe47bd')
+Thu Jul  4 04:34:21 2019 [11905][-none-][FATAL] Slow Query (time:0.15447592735291
+SELECT * FROM outbound_email WHERE id = 'c0661e0b-98f2-41d2-7098-5aa23dfe47bd')
+Thu Jul  4 04:34:22 2019 [11905][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.2398087978363
+ SELECT  contacts.* ,contacts_cstm.jjwg_maps_address_c,contacts_cstm.jjwg_maps_lng_c,contacts_cstm.jjwg_maps_lat_c,contacts_cstm.jjwg_maps_geocode_status_c, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as name , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as full_name, '                                                                                                                                                                                                                                                              ' account_name , '                                    '  account_id , '                                                                                                                                                                                                                                                              ' opportunity_role_fields , '                                    '  opportunity_id  , jt5.last_name report_to_name , jt5.assigned_user_id report_to_name_owner  , 'Contacts' report_to_name_mod , jt6.name campaign_name , jt6.assigned_user_id campaign_name_owner  , 'Campaigns' campaign_name_mod, '                                                                                                                                                                                                                                                              ' c_accept_status_fields , '                                    '  call_id , '                                                                                                                                                                                                                                                              ' m_accept_status_fields , '                                    '  meeting_id , '                                                                                                                                                                                                                                                              ' e_invite_status_fields , '                                    '  fp_events_contactsfp_events_ida , '                                                                                                                                                                                                                                                              ' e_accept_status_fields  FROM contacts  LEFT JOIN contacts_cstm ON contacts.id = contacts_cstm.id_c   LEFT JOIN  users jt0 ON contacts.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON contacts.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON contacts.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0  LEFT JOIN  contacts jt5 ON contacts.reports_to_id=jt5.id AND jt5.deleted=0
+
+ AND jt5.deleted=0  LEFT JOIN  campaigns jt6 ON contacts.campaign_id=jt6.id AND jt6.deleted=0
+
+ AND jt6.deleted=0 where ((LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 'M%' OR LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 'M%')) AND contacts.deleted=0 ORDER BY contacts.last_name LIMIT 0,30)
+Thu Jul  4 04:34:23 2019 [11905][-none-][FATAL] Slow Query (time:0.1157591342926
+SELECT category, name, value FROM config)
+Thu Jul  4 04:34:23 2019 [11905][-none-][FATAL] Slow Query (time:0.11567187309265
+SELECT category, name, value FROM config)
+Thu Jul  4 04:34:23 2019 [11905][-none-][FATAL] Slow Query (time:0.12777519226074
+SELECT id FROM outbound_email WHERE type = 'system')
+Thu Jul  4 04:34:23 2019 [11905][-none-][FATAL] Slow Query (time:0.12783885002136
+SELECT id FROM outbound_email WHERE type = 'system')
+Thu Jul  4 04:36:23 2019 [11692][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.31891393661499
+SELECT 
+                    ea.email_address,
+                    ea.email_address_caps,
+                    ea.invalid_email,
+                    ea.opt_out,
+                    ea.confirm_opt_in,
+                    ea.date_created,
+                    ea.date_modified,
+                    ear.id,
+                    ear.email_address_id,
+                    ear.bean_id,
+                    ear.bean_module,
+                    ear.primary_address,
+                    ear.reply_to_address,
+                    ear.deleted
+                FROM email_addresses ea LEFT JOIN email_addr_bean_rel ear ON ea.id = ear.email_address_id
+                WHERE 
+                    ear.bean_module = 'Users'
+                    AND ear.bean_id = '6f1319bd-bce1-d828-fdc5-5d10ad345763'
+                    AND ear.deleted = 0
+                ORDER BY ear.reply_to_address, ear.primary_address DESC)
+Thu Jul  4 04:36:24 2019 [11692][-none-][FATAL] Slow Query (time:0.31794810295105
+SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0)
+Thu Jul  4 04:36:24 2019 [11692][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.16471290588379
+SELECT * FROM fields_meta_data WHERE  custom_module='DynamicFields' AND  deleted = 0)
+Thu Jul  4 04:36:24 2019 [11692][-none-][FATAL] Slow Query (time:0.22104096412659
+SELECT category, name, value FROM config)
+Thu Jul  4 04:36:24 2019 [11692][-none-][FATAL] Slow Query (time:0.36960506439209
+SELECT id FROM outbound_email WHERE type = 'system')
+Thu Jul  4 04:36:25 2019 [11692][-none-][FATAL] Slow Query (time:0.40638399124146
+SELECT * FROM outbound_email WHERE id = 'c0661e0b-98f2-41d2-7098-5aa23dfe47bd')
+Thu Jul  4 04:36:25 2019 [11692][-none-][FATAL] Slow Query (time:0.26595711708069
+SELECT users.* FROM users  WHERE users.id = '6f1319bd-bce1-d828-fdc5-5d10ad345763' AND users.deleted=0 LIMIT 0,1)
+Thu Jul  4 04:36:25 2019 [11692][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.24473404884338
+SELECT id, first_name, last_name, user_name FROM users WHERE 1=1 ORDER BY first_name, last_name ASC)
+Thu Jul  4 04:36:48 2019 [11905][-none-][FATAL] SECURITY: User authentication for pdoshi failed
+Thu Jul  4 04:36:49 2019 [11905][-none-][FATAL] FAILED LOGIN:attempts[1], ip[49.32.246.122], username[pdoshi]
+Fri Jul  5 04:30:00 2019 [16683][-none-][FATAL] SECURITY: User authentication for pdoshi failed
+Fri Jul  5 04:30:00 2019 [16683][-none-][FATAL] FAILED LOGIN:attempts[1], ip[115.97.65.75], username[pdoshi]
+Fri Jul  5 04:30:04 2019 [16683][-none-][FATAL] SECURITY: User authentication for pdoshi failed
+Fri Jul  5 04:30:04 2019 [16683][-none-][FATAL] FAILED LOGIN:attempts[1], ip[115.97.65.75], username[pdoshi]
+Fri Jul  5 04:30:06 2019 [16683][-none-][FATAL] SECURITY: User authentication for pdoshi failed
+Fri Jul  5 04:30:06 2019 [16683][-none-][FATAL] FAILED LOGIN:attempts[2], ip[115.97.65.75], username[pdoshi]
+Wed Jul 10 09:33:18 2019 [22356][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:33:18 2019 [22355][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:33:18 2019 [22356][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:33:25 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:33:54 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:33:55 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:38:39 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:38:44 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:38:48 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:38:52 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:38:58 2019 [22356][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:39:21 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:39:21 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:39:51 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:40:22 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:40:22 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:40:50 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:41:19 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:41:23 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:41:50 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:42:28 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:42:33 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:42:58 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:43:28 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:43:36 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:43:58 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:44:28 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:44:38 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:44:59 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:45:28 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:45:38 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:45:43 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:45:44 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:45:45 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:45:48 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:45:58 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:46:28 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:46:41 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:46:58 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:47:29 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:47:42 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:47:58 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 09:48:28 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:08:41 2019 [22357][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:09:02 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:09:23 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:09:34 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:15:14 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:15:19 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:15:29 2019 [22355][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:15:46 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:16:15 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:16:31 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:16:45 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:17:14 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:17:32 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:17:45 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:18:15 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:18:33 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:18:44 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:19:15 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:19:34 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:19:45 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:20:15 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:20:36 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:20:45 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:21:15 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:21:38 2019 [22598][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Wed Jul 10 10:21:44 2019 [25253][-none-][FATAL] Could not connect to DB server localhost as crm_dba. port : No such file or directory
+Thu Jul 11 04:01:15 2019 [29283][1][FATAL] IP Address mismatch: SESSION IP: 116.72.177.244 CLIENT IP: 49.33.236.76
+Thu Jul 11 04:01:15 2019 [29283][1][FATAL] IP Address mismatch: SESSION IP: 116.72.177.244 CLIENT IP: 49.33.236.76
+Thu Jul 11 06:12:52 2019 [29283][1][FATAL] Mysqli_query failed.
+Thu Jul 11 06:12:52 2019 [29283][1][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Thu Jul 11 06:12:52 2019 [29283][1][FATAL] Mysqli_query failed.
+Thu Jul 11 06:12:52 2019 [29283][1][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Thu Jul 11 06:16:44 2019 [31243][6f4807b2-36b2-6fcc-465b-5ce8d039b8d0][ERROR] error: no ieID
+Thu Jul 11 06:16:45 2019 [31243][6f4807b2-36b2-6fcc-465b-5ce8d039b8d0][ERROR]  SugarFolder::retrieveFoldersForProcessing() Cannot Retrieve Folders - Please check the users inbound email settings.
+Thu Jul 11 06:17:05 2019 [31559][1][FATAL] Undefined index: module
+Thu Jul 11 06:17:05 2019 [31559][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Thu Jul 11 06:17:05 2019 [31559][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Thu Jul 11 06:20:11 2019 [31559][1][ERROR] error: no ieID
+Thu Jul 11 06:21:38 2019 [31559][6f4807b2-36b2-6fcc-465b-5ce8d039b8d0][ERROR] error: no ieID
+Thu Jul 11 06:21:38 2019 [31559][6f4807b2-36b2-6fcc-465b-5ce8d039b8d0][ERROR]  SugarFolder::retrieveFoldersForProcessing() Cannot Retrieve Folders - Please check the users inbound email settings.
+Thu Jul 11 06:22:08 2019 [31559][1][ERROR] Invalid Referrer: expected the Save action to be called from the User's Profile Edit View
+Thu Jul 11 06:22:08 2019 [31559][1][ERROR] Email address save error
+Thu Jul 11 06:22:08 2019 [31559][1][ERROR] Unable to find relationship projects_users_resources
+Thu Jul 11 06:22:08 2019 [31559][1][FATAL] error loading relationship project_resource
+Thu Jul 11 06:22:08 2019 [31559][1][ERROR] Unable to find relationship am_projecttemplates_users_resources
+Thu Jul 11 06:22:08 2019 [31559][1][FATAL] error loading relationship am_projecttemplates_resources
+Thu Jul 11 07:19:31 2019 [31559][1][FATAL] IP Address mismatch: SESSION IP: 49.33.208.126 CLIENT IP: 116.72.127.188
+Thu Jul 11 07:40:09 2019 [31559][1][FATAL] Slow Query (time:0.10817003250122
+ SELECT  contacts.id , contacts.assigned_user_id , LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as name, contacts.first_name , contacts.last_name , contacts.salutation  , accounts.name account_name, jtl0.account_id account_id, contacts.title , contacts.phone_work  , jt1.user_name assigned_user_name , jt1.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, contacts.date_entered , contacts.created_by  FROM contacts  LEFT JOIN contacts_cstm ON contacts.id = contacts_cstm.id_c   LEFT JOIN  accounts_contacts jtl0 ON contacts.id=jtl0.contact_id AND jtl0.deleted=0
+
+ LEFT JOIN  accounts accounts ON accounts.id=jtl0.account_id AND accounts.deleted=0
+ AND accounts.deleted=0  LEFT JOIN  users jt1 ON contacts.assigned_user_id=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0 where contacts.deleted=0 ORDER BY contacts.date_entered DESC LIMIT 0,21)
+Thu Jul 11 09:09:49 2019 [31559][1][FATAL] IP Address mismatch: SESSION IP: 116.72.127.188 CLIENT IP: 49.33.231.67
+Thu Jul 11 09:57:43 2019 [31559][-none-][FATAL] SECURITY: User authentication for pdoshi failed
+Thu Jul 11 09:57:43 2019 [31559][-none-][FATAL] FAILED LOGIN:attempts[1], ip[49.33.231.67], username[pdoshi]
+Thu Jul 11 10:16:14 2019 [31559][1][FATAL] IP Address mismatch: SESSION IP: 49.33.231.67 CLIENT IP: 116.72.127.188
+Thu Jul 11 10:43:11 2019 [31243][-none-][FATAL] SECURITY: User authentication for Pdoshi failed
+Thu Jul 11 10:43:11 2019 [31243][-none-][FATAL] FAILED LOGIN:attempts[1], ip[27.60.176.129], username[Pdoshi]
+Thu Jul 11 10:43:41 2019 [31559][-none-][FATAL] SECURITY: User authentication for Pdoshi failed
+Thu Jul 11 10:43:41 2019 [31559][-none-][FATAL] FAILED LOGIN:attempts[1], ip[27.60.176.129], username[Pdoshi]
+Thu Jul 11 10:44:08 2019 [31559][-none-][FATAL] SECURITY: User authentication for Pdoshi failed
+Thu Jul 11 10:44:08 2019 [31559][-none-][FATAL] FAILED LOGIN:attempts[1], ip[27.60.176.129], username[Pdoshi]
+Thu Jul 11 11:26:47 2019 [31559][-none-][FATAL] SECURITY: User authentication for satya failed
+Thu Jul 11 11:26:47 2019 [31559][-none-][FATAL] FAILED LOGIN:attempts[1], ip[49.33.255.215], username[satya]
+Thu Jul 11 11:26:54 2019 [31559][-none-][FATAL] SECURITY: User authentication for satya failed
+Thu Jul 11 11:26:54 2019 [31559][-none-][FATAL] FAILED LOGIN:attempts[1], ip[49.33.255.215], username[satya]
+Thu Jul 11 11:26:59 2019 [31559][-none-][FATAL] SECURITY: User authentication for Satya failed
+Thu Jul 11 11:26:59 2019 [31559][-none-][FATAL] FAILED LOGIN:attempts[1], ip[49.33.255.215], username[Satya]
+Thu Jul 11 11:27:01 2019 [31559][-none-][FATAL] SECURITY: User authentication for Satya failed
+Thu Jul 11 11:27:01 2019 [31559][-none-][FATAL] FAILED LOGIN:attempts[2], ip[49.33.255.215], username[Satya]
+Thu Jul 11 13:28:17 2019 [31559][1][FATAL] IP Address mismatch: SESSION IP: 116.72.127.188 CLIENT IP: 116.72.177.244
+Thu Jul 11 15:03:09 2019 [1691][-none-][FATAL] SECURITY: User authentication for pdoshi failed
+Thu Jul 11 15:03:10 2019 [1691][-none-][FATAL] FAILED LOGIN:attempts[1], ip[116.72.177.244], username[pdoshi]
+Thu Jul 11 16:40:30 2019 [1758][d7c058d7-8a6f-a30d-7679-5c20c2c0b5a0][FATAL] IP Address mismatch: SESSION IP: 49.33.255.215 CLIENT IP: 103.235.0.165
+Fri Jul 12 03:56:07 2019 [1758][-none-][FATAL] SECURITY: User authentication for vkamble failed
+Fri Jul 12 03:56:07 2019 [1758][-none-][FATAL] FAILED LOGIN:attempts[1], ip[116.72.119.42], username[vkamble]
+Fri Jul 12 06:52:20 2019 [1758][6f1319bd-bce1-d828-fdc5-5d10ad345763][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 06:52:20 2019 [1758][6f1319bd-bce1-d828-fdc5-5d10ad345763][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 06:52:23 2019 [1758][6f1319bd-bce1-d828-fdc5-5d10ad345763][ERROR]  SugarFolder::retrieveFoldersForProcessing() Cannot Retrieve Folders - Please check the users inbound email settings.
+Fri Jul 12 09:17:02 2019 [5096][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:17:02 2019 [5096][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:17:19 2019 [4501][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:17:19 2019 [4501][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:17:37 2019 [5096][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:17:37 2019 [5096][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:21:56 2019 [5238][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:21:56 2019 [5238][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:22:11 2019 [5238][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:22:11 2019 [5238][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:22:44 2019 [5238][1][ERROR] error: no ieID
+Fri Jul 12 09:22:50 2019 [5238][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:22:50 2019 [5238][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:23:00 2019 [5238][1][ERROR] EmailController::action_getFromFields() is Panicking: Reply-To address is not filled.
+Fri Jul 12 09:23:00 2019 [5238][1][ERROR] Signature html not found!
+Fri Jul 12 09:23:00 2019 [5238][1][ERROR] Signature plain text not found!
+Fri Jul 12 09:23:43 2019 [5452][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:23:43 2019 [5452][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:24:11 2019 [5452][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:24:11 2019 [5452][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:24:14 2019 [5452][1][ERROR] Error sending opt-in email to: sales@sandogroup.com
+Fri Jul 12 09:24:14 2019 [5452][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From-name is not set.
+From address and name pair does not match to from name.
+From address and name pair is invalid.
+codes:1, 7, 22, 15
+Fri Jul 12 09:24:14 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:15 2019 [5452][1][ERROR] Unable to find relationship projects_users_resources
+Fri Jul 12 09:24:15 2019 [5452][1][ERROR] Unable to find relationship am_projecttemplates_users_resources
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Error sending opt-in email to: sales@sandogroup.com
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From-name is not set.
+From name is not set.
+From address and name pair is empty.
+codes:1, 7, 10, 14
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From-name is not set.
+From address and name pair does not match to from name.
+From address and name pair is invalid.
+codes:1, 7, 22, 15
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Saving Email with invalid From name and/or Address. Details:
+From field is not set.
+From address is not set.
+From-name is not set.
+From name is not set.
+From address and name pair format is incorrect, use "from@emailaddress.org <Name of Person>" format.
+From address and name pair is invalid.
+codes:1, 4, 7, 10, 16, 15
+Fri Jul 12 09:24:19 2019 [5452][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:25:15 2019 [5522][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:25:15 2019 [5522][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:25:15 2019 [5522][1][ERROR] Unable to find relationship emails_email_templates
+Fri Jul 12 09:25:57 2019 [5522][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:25:57 2019 [5522][1][ERROR] ImapHandler trying to use a non valid resource stream.
+Fri Jul 12 09:29:12 2019 [5522][1][FATAL] IP Address mismatch: SESSION IP: 116.72.119.42 CLIENT IP: 49.32.208.163
+Fri Jul 12 09:31:26 2019 [5452][6f1319bd-bce1-d828-fdc5-5d10ad345763][FATAL] Slow Query (time:0.13584089279175
+ SELECT  contacts.* ,contacts_cstm.jjwg_maps_address_c,contacts_cstm.jjwg_maps_lng_c,contacts_cstm.jjwg_maps_lat_c,contacts_cstm.jjwg_maps_geocode_status_c, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as name , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) as full_name, '                                                                                                                                                                                                                                                              ' account_name , '                                    '  account_id , '                                                                                                                                                                                                                                                              ' opportunity_role_fields , '                                    '  opportunity_id  , jt5.last_name report_to_name , jt5.assigned_user_id report_to_name_owner  , 'Contacts' report_to_name_mod , jt6.name campaign_name , jt6.assigned_user_id campaign_name_owner  , 'Campaigns' campaign_name_mod, '                                                                                                                                                                                                                                                              ' c_accept_status_fields , '                                    '  call_id , '                                                                                                                                                                                                                                                              ' m_accept_status_fields , '                                    '  meeting_id , '                                                                                                                                                                                                                                                              ' e_invite_status_fields , '                                    '  fp_events_contactsfp_events_ida , '                                                                                                                                                                                                                                                              ' e_accept_status_fields  FROM contacts  LEFT JOIN contacts_cstm ON contacts.id = contacts_cstm.id_c   LEFT JOIN  users jt0 ON contacts.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON contacts.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON contacts.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0  LEFT JOIN  contacts jt5 ON contacts.reports_to_id=jt5.id AND jt5.deleted=0
+
+ AND jt5.deleted=0  LEFT JOIN  campaigns jt6 ON contacts.campaign_id=jt6.id AND jt6.deleted=0
+
+ AND jt6.deleted=0 where ((LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 's%' OR LTRIM(RTRIM(CONCAT(IFNULL(contacts.first_name,''),' ',IFNULL(contacts.last_name,'')))) like 's%')) AND contacts.deleted=0 ORDER BY contacts.last_name LIMIT 0,30)
+Fri Jul 12 09:48:46 2019 [5522][1][FATAL] IP Address mismatch: SESSION IP: 49.32.208.163 CLIENT IP: 49.32.215.187
+Fri Jul 12 09:59:33 2019 [5452][1][FATAL] IP Address mismatch: SESSION IP: 116.72.119.42 CLIENT IP: 49.32.235.17
+Fri Jul 12 09:59:50 2019 [5452][-none-][FATAL] SECURITY: User authentication for pdoshi failed
+Fri Jul 12 09:59:50 2019 [5452][-none-][FATAL] FAILED LOGIN:attempts[1], ip[49.32.235.17], username[pdoshi]
+Fri Jul 12 09:59:54 2019 [5452][-none-][FATAL] SECURITY: User authentication for pdoshi failed
+Fri Jul 12 09:59:54 2019 [5452][-none-][FATAL] FAILED LOGIN:attempts[1], ip[49.32.235.17], username[pdoshi]
+Fri Jul 12 11:14:58 2019 [5522][1][FATAL] Mysqli_query failed.
+Fri Jul 12 11:14:58 2019 [5522][1][FATAL]  Query Failed: DESCRIBE versions: MySQL error 1146: Table 'suitecrm.versions' doesn't exist
+Fri Jul 12 11:14:58 2019 [5522][1][FATAL] Mysqli_query failed.
+Fri Jul 12 11:14:58 2019 [5522][1][FATAL]  Query Failed: SHOW INDEX FROM versions: MySQL error 1146: Table 'suitecrm.versions' doesn't exist
+Fri Jul 12 11:14:58 2019 [5522][1][FATAL] Mysqli_query failed.
+Fri Jul 12 11:14:58 2019 [5522][1][FATAL]  Query Failed: select * from versions: MySQL error 1146: Table 'suitecrm.versions' doesn't exist

@@ -1,0 +1,10 @@
+
+{if strlen($fields.packing_type_c.value) <= 0}
+{assign var="value" value=$fields.packing_type_c.default_value }
+{else}
+{assign var="value" value=$fields.packing_type_c.value }
+{/if}  
+<input type='text' name='{$fields.packing_type_c.name}' 
+    id='{$fields.packing_type_c.name}' size='30' 
+    maxlength='255' 
+    value='{$value}' title='Mechanical Seal / Gland Packing Type'  tabindex='1'      >
