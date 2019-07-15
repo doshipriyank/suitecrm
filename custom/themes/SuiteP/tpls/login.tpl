@@ -51,7 +51,7 @@
 
 	<div class="p_login_top">
 		
-		<a title="SuiteCRM" href="http://www.suitecrm.com">SuiteCRM</a>
+		<a title="SandoCRM" href="https://crm.sandogroup.com">SandoCRM</a>
 		
 	</div>
     
@@ -148,7 +148,7 @@
     
     <div class="p_login_bottom">
 
-    		<a id="admin_options">&copy; Supercharged by SuiteCRM</a>
+    		<a id="admin_options">&copy; Supercharged by SandoCRM</a>
             <a id="powered_by">&copy; Powered By SugarCRM</a>
     	
 	</div>

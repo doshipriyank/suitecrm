@@ -47,10 +47,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
     <!-- Bootstrap -->
-    <link href="themes/SuiteP/css/normalize.css" rel="stylesheet" type="text/css"/>
-    <link href='themes/SuiteP/css/fonts.css' rel='stylesheet' type='text/css'>
-    <link href="themes/SuiteP/css/grid.css" rel="stylesheet" type="text/css"/>
-    <link href="themes/SuiteP/css/footable.core.css" rel="stylesheet" type="text/css"/>
+    <link href="themes/SuiteP/css/normalize.css"  type="text/css" rel="preload" as="style"/>
+    <link href='themes/SuiteP/css/fonts.css' type='text/css' rel="preload" as="style">
+    <link href="themes/SuiteP/css/grid.css"  type="text/css" rel="preload" as="style"/>
+    <link href="themes/SuiteP/css/footable.core.css" rel="preload" as="style" type="text/css"/>
     <title>{$APP.LBL_BROWSER_TITLE}</title>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -76,7 +76,7 @@
     {/literal}
     {$SUGAR_CSS}
     <link rel="stylesheet" type="text/css" href="themes/SuiteP/css/colourSelector.php">
-    <script type="text/javascript" src='{sugar_getjspath file="themes/SuiteP/js/jscolor.js"}'></script>
-    <script type="text/javascript" src='{sugar_getjspath file="themes/SuiteP/js/style.js"}'></script>
-    <script type="text/javascript" src='{sugar_getjspath file="cache/include/javascript/sugar_field_grp.js"}'></script>
+    <script async type="text/javascript" src='{sugar_getjspath file="themes/SuiteP/js/jscolor.js"}'></script>
+    <script async type="text/javascript" src='{sugar_getjspath file="themes/SuiteP/js/style.js"}'></script>
+    <script async type="text/javascript" src='{sugar_getjspath file="cache/include/javascript/sugar_field_grp.js"}'></script>
 </head>
